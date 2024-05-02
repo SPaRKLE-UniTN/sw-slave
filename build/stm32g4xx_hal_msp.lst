@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccmMvbRD.s 			page 1
+ARM GAS  /tmp/cc2g1giA.s 			page 1
 
 
    1              		.cpu cortex-m4
@@ -27,7 +27,7 @@ ARM GAS  /tmp/ccmMvbRD.s 			page 1
   24              		.thumb
   25              		.thumb_func
   27              	HAL_MspInit:
-  28              	.LFB132:
+  28              	.LFB329:
    1:Core/Src/stm32g4xx_hal_msp.c **** /* USER CODE BEGIN Header */
    2:Core/Src/stm32g4xx_hal_msp.c **** /**
    3:Core/Src/stm32g4xx_hal_msp.c ****   ******************************************************************************
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccmMvbRD.s 			page 1
   28:Core/Src/stm32g4xx_hal_msp.c **** /* USER CODE BEGIN TD */
   29:Core/Src/stm32g4xx_hal_msp.c **** 
   30:Core/Src/stm32g4xx_hal_msp.c **** /* USER CODE END TD */
-ARM GAS  /tmp/ccmMvbRD.s 			page 2
+ARM GAS  /tmp/cc2g1giA.s 			page 2
 
 
   31:Core/Src/stm32g4xx_hal_msp.c **** 
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccmMvbRD.s 			page 1
   43 0006 1A6E     		ldr	r2, [r3, #96]
   44 0008 42F00102 		orr	r2, r2, #1
   45 000c 1A66     		str	r2, [r3, #96]
-ARM GAS  /tmp/ccmMvbRD.s 			page 3
+ARM GAS  /tmp/cc2g1giA.s 			page 3
 
 
   46              		.loc 1 70 3 view .LVU4
@@ -169,21 +169,21 @@ ARM GAS  /tmp/ccmMvbRD.s 			page 1
   79              	.L3:
   80 0034 00100240 		.word	1073876992
   81              		.cfi_endproc
-  82              	.LFE132:
+  82              	.LFE329:
   84              		.text
   85              	.Letext0:
   86              		.file 2 "/home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-
   87              		.file 3 "/home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-
   88              		.file 4 "Drivers/CMSIS/Device/ST/STM32G4xx/Include/stm32g474xx.h"
   89              		.file 5 "Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_pwr_ex.h"
-ARM GAS  /tmp/ccmMvbRD.s 			page 4
+ARM GAS  /tmp/cc2g1giA.s 			page 4
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 stm32g4xx_hal_msp.c
-     /tmp/ccmMvbRD.s:21     .text.HAL_MspInit:00000000 $t
-     /tmp/ccmMvbRD.s:27     .text.HAL_MspInit:00000000 HAL_MspInit
-     /tmp/ccmMvbRD.s:80     .text.HAL_MspInit:00000034 $d
+     /tmp/cc2g1giA.s:21     .text.HAL_MspInit:00000000 $t
+     /tmp/cc2g1giA.s:27     .text.HAL_MspInit:00000000 HAL_MspInit
+     /tmp/cc2g1giA.s:80     .text.HAL_MspInit:00000034 $d
 
 UNDEFINED SYMBOLS
 HAL_PWREx_DisableUCPDDeadBattery

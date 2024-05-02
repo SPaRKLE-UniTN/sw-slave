@@ -8,6 +8,8 @@ Archive member included to satisfy reference by file (symbol)
                               /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o) (__stdio_exit_handler)
 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
                               /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o) (_fwalk_sglue)
+/home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sprintf.o)
+                              build/main.o (sprintf)
 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
                               /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o) (__sread)
 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
@@ -17,7 +19,7 @@ Archive member included to satisfy reference by file (symbol)
 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
                               /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o) (errno)
 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
-                              /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o) (_impure_ptr)
+                              /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sprintf.o) (_impure_ptr)
 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o)
                               /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o) (_lseek_r)
 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o)
@@ -32,6 +34,8 @@ Archive member included to satisfy reference by file (symbol)
                               /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (__libc_fini_array)
 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
                               /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o) (__retarget_lock_init_recursive)
+/home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-strlen.o)
+                              build/main.o (strlen)
 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__atexit.o)
                               /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-atexit.o) (__register_exitproc)
 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__call_atexit.o)
@@ -42,10 +46,24 @@ Archive member included to satisfy reference by file (symbol)
                               /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o) (_malloc_r)
 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
                               /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o) (__malloc_lock)
+/home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-nano-svfprintf.o)
+                              /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sprintf.o) (_svfprintf_r)
+/home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-nano-vfprintf_i.o)
+                              /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-nano-svfprintf.o) (_printf_i)
 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
                               /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o) (_fflush_r)
+/home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memmove.o)
+                              /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-nano-svfprintf.o) (memmove)
 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
                               /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o) (_sbrk_r)
+/home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memchr.o)
+                              /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-nano-svfprintf.o) (memchr)
+/home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+                              /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-nano-svfprintf.o) (memcpy)
+/home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reallocr.o)
+                              /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-nano-svfprintf.o) (_realloc_r)
+/home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-msizer.o)
+                              /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reallocr.o) (_malloc_usable_size_r)
 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
                               build/stm32g4xx_hal_uart.o (__aeabi_uldivmod)
 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
@@ -72,6 +90,11 @@ Discarded input sections
  .ARM.exidx     0x00000000       0x10 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
  .ARM.attributes
                 0x00000000       0x20 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .text          0x00000000        0x0 build/adc.o
+ .data          0x00000000        0x0 build/adc.o
+ .bss           0x00000000        0x0 build/adc.o
+ .text.HAL_ADC_MspDeInit
+                0x00000000       0x28 build/adc.o
  .text          0x00000000        0x0 build/gpio.o
  .data          0x00000000        0x0 build/gpio.o
  .bss           0x00000000        0x0 build/gpio.o
@@ -125,23 +148,6 @@ Discarded input sections
  .text          0x00000000        0x0 build/sysmem.o
  .data          0x00000000        0x0 build/sysmem.o
  .bss           0x00000000        0x0 build/sysmem.o
- .text._sbrk    0x00000000       0x48 build/sysmem.o
- .bss.__sbrk_heap_end
-                0x00000000        0x4 build/sysmem.o
- .debug_info    0x00000000      0x171 build/sysmem.o
- .debug_abbrev  0x00000000       0xea build/sysmem.o
- .debug_loclists
-                0x00000000       0x46 build/sysmem.o
- .debug_aranges
-                0x00000000       0x20 build/sysmem.o
- .debug_rnglists
-                0x00000000       0x13 build/sysmem.o
- .debug_line    0x00000000      0x2a0 build/sysmem.o
- .debug_str     0x00000000      0x201 build/sysmem.o
- .comment       0x00000000       0x3a build/sysmem.o
- .debug_frame   0x00000000       0x28 build/sysmem.o
- .ARM.attributes
-                0x00000000       0x34 build/sysmem.o
  .text          0x00000000        0x0 build/system_stm32g4xx.o
  .data          0x00000000        0x0 build/system_stm32g4xx.o
  .bss           0x00000000        0x0 build/system_stm32g4xx.o
@@ -223,6 +229,112 @@ Discarded input sections
                 0x00000000       0x10 build/stm32g4xx_hal.o
  .text.HAL_SYSCFG_CCMSRAM_WriteProtectionEnable
                 0x00000000       0x10 build/stm32g4xx_hal.o
+ .text          0x00000000        0x0 build/stm32g4xx_hal_adc.o
+ .data          0x00000000        0x0 build/stm32g4xx_hal_adc.o
+ .bss           0x00000000        0x0 build/stm32g4xx_hal_adc.o
+ .text.LL_ADC_SetAnalogWDMonitChannels
+                0x00000000       0x30 build/stm32g4xx_hal_adc.o
+ .text.HAL_ADC_MspInit
+                0x00000000        0x2 build/stm32g4xx_hal_adc.o
+ .text.HAL_ADC_MspDeInit
+                0x00000000        0x2 build/stm32g4xx_hal_adc.o
+ .text.HAL_ADC_PollForEvent
+                0x00000000       0xe8 build/stm32g4xx_hal_adc.o
+ .text.HAL_ADC_StartSampling
+                0x00000000        0xe build/stm32g4xx_hal_adc.o
+ .text.HAL_ADC_StopSampling
+                0x00000000        0xe build/stm32g4xx_hal_adc.o
+ .text.HAL_ADC_ConvCpltCallback
+                0x00000000        0x2 build/stm32g4xx_hal_adc.o
+ .text.HAL_ADC_ConvHalfCpltCallback
+                0x00000000        0x2 build/stm32g4xx_hal_adc.o
+ .text.ADC_DMAHalfConvCplt
+                0x00000000        0xa build/stm32g4xx_hal_adc.o
+ .text.HAL_ADC_LevelOutOfWindowCallback
+                0x00000000        0x2 build/stm32g4xx_hal_adc.o
+ .text.HAL_ADC_ErrorCallback
+                0x00000000        0x2 build/stm32g4xx_hal_adc.o
+ .text.HAL_ADC_IRQHandler
+                0x00000000      0x2e8 build/stm32g4xx_hal_adc.o
+ .text.ADC_DMAConvCplt
+                0x00000000       0x88 build/stm32g4xx_hal_adc.o
+ .text.ADC_DMAError
+                0x00000000       0x1a build/stm32g4xx_hal_adc.o
+ .text.HAL_ADC_AnalogWDGConfig
+                0x00000000      0x2ec build/stm32g4xx_hal_adc.o
+ .text.HAL_ADC_GetState
+                0x00000000        0x4 build/stm32g4xx_hal_adc.o
+ .text.HAL_ADC_GetError
+                0x00000000        0x4 build/stm32g4xx_hal_adc.o
+ .text.HAL_ADC_Start_IT
+                0x00000000      0x1c8 build/stm32g4xx_hal_adc.o
+ .text.HAL_ADC_Start_DMA
+                0x00000000      0x140 build/stm32g4xx_hal_adc.o
+ .text.HAL_ADC_DeInit
+                0x00000000      0x234 build/stm32g4xx_hal_adc.o
+ .text.HAL_ADC_Stop_IT
+                0x00000000       0x4c build/stm32g4xx_hal_adc.o
+ .text.HAL_ADC_Stop_DMA
+                0x00000000       0x82 build/stm32g4xx_hal_adc.o
+ .text          0x00000000        0x0 build/stm32g4xx_hal_adc_ex.o
+ .data          0x00000000        0x0 build/stm32g4xx_hal_adc_ex.o
+ .bss           0x00000000        0x0 build/stm32g4xx_hal_adc_ex.o
+ .text.LL_ADC_SetCalibrationFactor
+                0x00000000       0x26 build/stm32g4xx_hal_adc_ex.o
+ .text.LL_ADC_SetChannelSamplingTime
+                0x00000000       0x2c build/stm32g4xx_hal_adc_ex.o
+ .text.HAL_ADCEx_Calibration_Start
+                0x00000000       0x9c build/stm32g4xx_hal_adc_ex.o
+ .text.HAL_ADCEx_Calibration_GetValue
+                0x00000000       0x16 build/stm32g4xx_hal_adc_ex.o
+ .text.HAL_ADCEx_Calibration_SetValue
+                0x00000000       0x5a build/stm32g4xx_hal_adc_ex.o
+ .text.HAL_ADCEx_InjectedStart
+                0x00000000      0x128 build/stm32g4xx_hal_adc_ex.o
+ .text.HAL_ADCEx_InjectedStop
+                0x00000000       0x54 build/stm32g4xx_hal_adc_ex.o
+ .text.HAL_ADCEx_InjectedPollForConversion
+                0x00000000      0x128 build/stm32g4xx_hal_adc_ex.o
+ .text.HAL_ADCEx_InjectedStart_IT
+                0x00000000      0x170 build/stm32g4xx_hal_adc_ex.o
+ .text.HAL_ADCEx_InjectedStop_IT
+                0x00000000       0x5e build/stm32g4xx_hal_adc_ex.o
+ .text.HAL_ADCEx_MultiModeStart_DMA
+                0x00000000      0x114 build/stm32g4xx_hal_adc_ex.o
+ .text.HAL_ADCEx_MultiModeStop_DMA
+                0x00000000      0x130 build/stm32g4xx_hal_adc_ex.o
+ .text.HAL_ADCEx_MultiModeGetValue
+                0x00000000       0x28 build/stm32g4xx_hal_adc_ex.o
+ .text.HAL_ADCEx_InjectedGetValue
+                0x00000000       0x38 build/stm32g4xx_hal_adc_ex.o
+ .text.HAL_ADCEx_InjectedConvCpltCallback
+                0x00000000        0x2 build/stm32g4xx_hal_adc_ex.o
+ .text.HAL_ADCEx_InjectedQueueOverflowCallback
+                0x00000000        0x2 build/stm32g4xx_hal_adc_ex.o
+ .text.HAL_ADCEx_LevelOutOfWindow2Callback
+                0x00000000        0x2 build/stm32g4xx_hal_adc_ex.o
+ .text.HAL_ADCEx_LevelOutOfWindow3Callback
+                0x00000000        0x2 build/stm32g4xx_hal_adc_ex.o
+ .text.HAL_ADCEx_EndOfSamplingCallback
+                0x00000000        0x2 build/stm32g4xx_hal_adc_ex.o
+ .text.HAL_ADCEx_RegularStop
+                0x00000000       0x5a build/stm32g4xx_hal_adc_ex.o
+ .text.HAL_ADCEx_RegularStop_IT
+                0x00000000       0x64 build/stm32g4xx_hal_adc_ex.o
+ .text.HAL_ADCEx_RegularStop_DMA
+                0x00000000       0x92 build/stm32g4xx_hal_adc_ex.o
+ .text.HAL_ADCEx_RegularMultiModeStop_DMA
+                0x00000000      0x130 build/stm32g4xx_hal_adc_ex.o
+ .text.HAL_ADCEx_InjectedConfigChannel
+                0x00000000      0x614 build/stm32g4xx_hal_adc_ex.o
+ .text.HAL_ADCEx_EnableInjectedQueue
+                0x00000000       0x36 build/stm32g4xx_hal_adc_ex.o
+ .text.HAL_ADCEx_DisableInjectedQueue
+                0x00000000       0x36 build/stm32g4xx_hal_adc_ex.o
+ .text.HAL_ADCEx_DisableVoltageRegulator
+                0x00000000       0x1e build/stm32g4xx_hal_adc_ex.o
+ .text.HAL_ADCEx_EnterADCDeepPowerDownMode
+                0x00000000       0x22 build/stm32g4xx_hal_adc_ex.o
  .text          0x00000000        0x0 build/stm32g4xx_hal_cortex.o
  .data          0x00000000        0x0 build/stm32g4xx_hal_cortex.o
  .bss           0x00000000        0x0 build/stm32g4xx_hal_cortex.o
@@ -822,8 +934,6 @@ Discarded input sections
                 0x00000000        0xc build/stm32g4xx_hal_uart.o
  .text.HAL_UART_GetError
                 0x00000000        0x6 build/stm32g4xx_hal_uart.o
- .text.HAL_UART_Transmit
-                0x00000000       0xd2 build/stm32g4xx_hal_uart.o
  .text.HAL_UART_Receive
                 0x00000000      0x118 build/stm32g4xx_hal_uart.o
  .text.HAL_HalfDuplex_Init
@@ -875,6 +985,14 @@ Discarded input sections
                 0x00000000       0x50 build/stm32g4xx_hal_uart_ex.o
  .text.HAL_UARTEx_GetRxEventType
                 0x00000000        0x4 build/stm32g4xx_hal_uart_ex.o
+ .text          0x00000000        0x0 build/stm32g4xx_ll_adc.o
+ .data          0x00000000        0x0 build/stm32g4xx_ll_adc.o
+ .bss           0x00000000        0x0 build/stm32g4xx_ll_adc.o
+ .debug_line    0x00000000        0x0 build/stm32g4xx_ll_adc.o
+ .debug_str     0x00000000       0xfb build/stm32g4xx_ll_adc.o
+ .comment       0x00000000       0x3a build/stm32g4xx_ll_adc.o
+ .ARM.attributes
+                0x00000000       0x34 build/stm32g4xx_ll_adc.o
  .text          0x00000000       0x14 build/startup_stm32g474xx.o
  .data          0x00000000        0x0 build/startup_stm32g474xx.o
  .bss           0x00000000        0x0 build/startup_stm32g474xx.o
@@ -917,12 +1035,8 @@ Discarded input sections
  .text.__fp_unlock_all
                 0x00000000       0x1c /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
  .data.__sglue  0x00000000        0xc /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
- .bss.__sf      0x00000000      0x138 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
  .bss.__stdio_exit_handler
                 0x00000000        0x4 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
- .comment       0x00000000       0x3a /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
- .ARM.attributes
-                0x00000000       0x34 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
  .text          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
  .data          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
  .bss           0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
@@ -931,6 +1045,11 @@ Discarded input sections
  .comment       0x00000000       0x3a /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
  .ARM.attributes
                 0x00000000       0x34 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
+ .text          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sprintf.o)
+ .data          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sprintf.o)
+ .bss           0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sprintf.o)
+ .text._sprintf_r
+                0x00000000       0x38 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sprintf.o)
  .text          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
  .data          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
  .bss           0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
@@ -961,20 +1080,9 @@ Discarded input sections
  .bss           0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
  .text._reclaim_reent
                 0x00000000       0xac /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
- .bss.errno     0x00000000        0x4 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
- .comment       0x00000000       0x3a /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
- .ARM.attributes
-                0x00000000       0x34 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
  .text          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
  .data          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
  .bss           0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
- .data._impure_ptr
-                0x00000000        0x4 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
- .data._impure_data
-                0x00000000       0x4c /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
- .comment       0x00000000       0x3a /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
- .ARM.attributes
-                0x00000000       0x34 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
  .text          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o)
  .data          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o)
  .bss           0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o)
@@ -1001,10 +1109,6 @@ Discarded input sections
  .text          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-errno.o)
  .data          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-errno.o)
  .bss           0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-errno.o)
- .text.__errno  0x00000000        0xc /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-errno.o)
- .comment       0x00000000       0x3a /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-errno.o)
- .ARM.attributes
-                0x00000000       0x34 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-errno.o)
  .text          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
  .data          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
  .bss           0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
@@ -1029,15 +1133,11 @@ Discarded input sections
                 0x00000000        0x2 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
  .text.__retarget_lock_acquire
                 0x00000000        0x2 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
- .text.__retarget_lock_acquire_recursive
-                0x00000000        0x2 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
  .text.__retarget_lock_try_acquire
                 0x00000000        0x4 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
  .text.__retarget_lock_try_acquire_recursive
                 0x00000000        0x4 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
  .text.__retarget_lock_release
-                0x00000000        0x2 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
- .text.__retarget_lock_release_recursive
                 0x00000000        0x2 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
  .bss.__lock___arc4random_mutex
                 0x00000000        0x1 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
@@ -1047,17 +1147,16 @@ Discarded input sections
                 0x00000000        0x1 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
  .bss.__lock___env_recursive_mutex
                 0x00000000        0x1 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
- .bss.__lock___malloc_recursive_mutex
-                0x00000000        0x1 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
  .bss.__lock___at_quick_exit_mutex
                 0x00000000        0x1 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
  .bss.__lock___atexit_recursive_mutex
                 0x00000000        0x1 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
  .bss.__lock___sfp_recursive_mutex
                 0x00000000        0x1 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
- .comment       0x00000000       0x3a /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
- .ARM.attributes
-                0x00000000       0x34 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .data          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-strlen.o)
+ .bss           0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-strlen.o)
+ .ARM.extab     0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-strlen.o)
+ .eh_frame      0x00000000       0x28 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-strlen.o)
  .text          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__atexit.o)
  .data          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__atexit.o)
  .bss           0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__atexit.o)
@@ -1084,34 +1183,20 @@ Discarded input sections
  .text          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
  .data          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
  .bss           0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
- .text._free_r  0x00000000       0x94 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
- .comment       0x00000000       0x3a /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
- .ARM.attributes
-                0x00000000       0x34 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
  .text          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
  .data          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
  .bss           0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
- .text.sbrk_aligned
-                0x00000000       0x44 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
- .text._malloc_r
-                0x00000000      0x100 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
- .bss.__malloc_sbrk_start
-                0x00000000        0x4 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
- .bss.__malloc_free_list
-                0x00000000        0x4 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
- .comment       0x00000000       0x3a /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
- .ARM.attributes
-                0x00000000       0x34 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
  .text          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
  .data          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
  .bss           0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
- .text.__malloc_lock
-                0x00000000        0xc /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
- .text.__malloc_unlock
-                0x00000000        0xc /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
- .comment       0x00000000       0x3a /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
- .ARM.attributes
-                0x00000000       0x34 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .text          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-nano-svfprintf.o)
+ .data          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-nano-svfprintf.o)
+ .bss           0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-nano-svfprintf.o)
+ .text.__ssprint_r
+                0x00000000       0xfa /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-nano-svfprintf.o)
+ .text          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .data          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .bss           0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-nano-vfprintf_i.o)
  .text          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
  .data          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
  .bss           0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
@@ -1123,13 +1208,25 @@ Discarded input sections
  .comment       0x00000000       0x3a /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
  .ARM.attributes
                 0x00000000       0x34 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .text          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memmove.o)
+ .data          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memmove.o)
+ .bss           0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memmove.o)
  .text          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
  .data          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
  .bss           0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
- .text._sbrk_r  0x00000000       0x20 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
- .comment       0x00000000       0x3a /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
- .ARM.attributes
-                0x00000000       0x34 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .data          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memchr.o)
+ .bss           0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memchr.o)
+ .ARM.extab     0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memchr.o)
+ .eh_frame      0x00000000       0x50 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memchr.o)
+ .text          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+ .data          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+ .text          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reallocr.o)
+ .data          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reallocr.o)
+ .bss           0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reallocr.o)
+ .text          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-msizer.o)
+ .data          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-msizer.o)
+ .bss           0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-msizer.o)
  .data          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
  .bss           0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
  .text          0x00000000        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
@@ -1164,6 +1261,7 @@ Linker script and memory map
 LOAD /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crti.o
 LOAD /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtbegin.o
 LOAD /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+LOAD build/adc.o
 LOAD build/gpio.o
 LOAD build/main.o
 LOAD build/stm32g4xx_hal_msp.o
@@ -1173,6 +1271,8 @@ LOAD build/sysmem.o
 LOAD build/system_stm32g4xx.o
 LOAD build/usart.o
 LOAD build/stm32g4xx_hal.o
+LOAD build/stm32g4xx_hal_adc.o
+LOAD build/stm32g4xx_hal_adc_ex.o
 LOAD build/stm32g4xx_hal_cortex.o
 LOAD build/stm32g4xx_hal_dma.o
 LOAD build/stm32g4xx_hal_dma_ex.o
@@ -1189,6 +1289,7 @@ LOAD build/stm32g4xx_hal_tim.o
 LOAD build/stm32g4xx_hal_tim_ex.o
 LOAD build/stm32g4xx_hal_uart.o
 LOAD build/stm32g4xx_hal_uart_ex.o
+LOAD build/stm32g4xx_ll_adc.o
 LOAD build/startup_stm32g474xx.o
 LOAD /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
 LOAD /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a
@@ -1214,369 +1315,483 @@ LOAD /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-
                 0x08000000                g_pfnVectors
                 0x080001d8                        . = ALIGN (0x4)
 
-.text           0x080001d8     0x1e4c
-                0x080001d8                        . = ALIGN (0x4)
+.text           0x080001e0     0x3974
+                0x080001e0                        . = ALIGN (0x4)
  *(.text)
- .text          0x080001d8       0x30 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
-                0x080001d8                __aeabi_uldivmod
- .text          0x08000208        0x4 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
-                0x08000208                __aeabi_ldiv0
-                0x08000208                __aeabi_idiv0
+ .text          0x080001e0       0x10 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-strlen.o)
+                0x080001e0                strlen
+ .text          0x080001f0       0xa0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memchr.o)
+                0x080001f0                memchr
+ .text          0x08000290       0x30 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+                0x08000290                __aeabi_uldivmod
+ .text          0x080002c0        0x4 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
+                0x080002c0                __aeabi_ldiv0
+                0x080002c0                __aeabi_idiv0
  *(.text*)
  .text.__do_global_dtors_aux
-                0x0800020c       0x24 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x080002c4       0x24 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtbegin.o
  .text.frame_dummy
-                0x08000230       0x1c /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x080002e8       0x1c /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text.MX_ADC1_Init
+                0x08000304       0xa0 build/adc.o
+                0x08000304                MX_ADC1_Init
+ .text.HAL_ADC_MspInit
+                0x080003a4       0x84 build/adc.o
+                0x080003a4                HAL_ADC_MspInit
  .text.MX_GPIO_Init
-                0x0800024c       0xb0 build/gpio.o
-                0x0800024c                MX_GPIO_Init
+                0x08000428       0xb0 build/gpio.o
+                0x08000428                MX_GPIO_Init
  .text.Error_Handler
-                0x080002fc        0x4 build/main.o
-                0x080002fc                Error_Handler
+                0x080004d8        0x4 build/main.o
+                0x080004d8                Error_Handler
  .text.SystemClock_Config
-                0x08000300       0x70 build/main.o
-                0x08000300                SystemClock_Config
- .text.main     0x08000370       0x14 build/main.o
-                0x08000370                main
+                0x080004dc       0x70 build/main.o
+                0x080004dc                SystemClock_Config
+ .text.main     0x0800054c       0x64 build/main.o
+                0x0800054c                main
  .text.HAL_MspInit
-                0x08000384       0x38 build/stm32g4xx_hal_msp.o
-                0x08000384                HAL_MspInit
+                0x080005b0       0x38 build/stm32g4xx_hal_msp.o
+                0x080005b0                HAL_MspInit
  .text.NMI_Handler
-                0x080003bc        0x2 build/stm32g4xx_it.o
-                0x080003bc                NMI_Handler
+                0x080005e8        0x2 build/stm32g4xx_it.o
+                0x080005e8                NMI_Handler
  .text.HardFault_Handler
-                0x080003be        0x2 build/stm32g4xx_it.o
-                0x080003be                HardFault_Handler
+                0x080005ea        0x2 build/stm32g4xx_it.o
+                0x080005ea                HardFault_Handler
  .text.MemManage_Handler
-                0x080003c0        0x2 build/stm32g4xx_it.o
-                0x080003c0                MemManage_Handler
+                0x080005ec        0x2 build/stm32g4xx_it.o
+                0x080005ec                MemManage_Handler
  .text.BusFault_Handler
-                0x080003c2        0x2 build/stm32g4xx_it.o
-                0x080003c2                BusFault_Handler
+                0x080005ee        0x2 build/stm32g4xx_it.o
+                0x080005ee                BusFault_Handler
  .text.UsageFault_Handler
-                0x080003c4        0x2 build/stm32g4xx_it.o
-                0x080003c4                UsageFault_Handler
+                0x080005f0        0x2 build/stm32g4xx_it.o
+                0x080005f0                UsageFault_Handler
  .text.SVC_Handler
-                0x080003c6        0x2 build/stm32g4xx_it.o
-                0x080003c6                SVC_Handler
+                0x080005f2        0x2 build/stm32g4xx_it.o
+                0x080005f2                SVC_Handler
  .text.DebugMon_Handler
-                0x080003c8        0x2 build/stm32g4xx_it.o
-                0x080003c8                DebugMon_Handler
+                0x080005f4        0x2 build/stm32g4xx_it.o
+                0x080005f4                DebugMon_Handler
  .text.PendSV_Handler
-                0x080003ca        0x2 build/stm32g4xx_it.o
-                0x080003ca                PendSV_Handler
+                0x080005f6        0x2 build/stm32g4xx_it.o
+                0x080005f6                PendSV_Handler
  .text.SysTick_Handler
-                0x080003cc        0x8 build/stm32g4xx_it.o
-                0x080003cc                SysTick_Handler
+                0x080005f8        0x8 build/stm32g4xx_it.o
+                0x080005f8                SysTick_Handler
  .text.EXTI15_10_IRQHandler
-                0x080003d4        0xc build/stm32g4xx_it.o
-                0x080003d4                EXTI15_10_IRQHandler
+                0x08000600        0xc build/stm32g4xx_it.o
+                0x08000600                EXTI15_10_IRQHandler
+ .text._sbrk    0x0800060c       0x48 build/sysmem.o
+                0x0800060c                _sbrk
  .text.SystemInit
-                0x080003e0       0x14 build/system_stm32g4xx.o
-                0x080003e0                SystemInit
+                0x08000654       0x14 build/system_stm32g4xx.o
+                0x08000654                SystemInit
  .text.MX_LPUART1_UART_Init
-                0x080003f4       0x68 build/usart.o
-                0x080003f4                MX_LPUART1_UART_Init
+                0x08000668       0x68 build/usart.o
+                0x08000668                MX_LPUART1_UART_Init
  .text.HAL_UART_MspInit
-                0x0800045c       0x84 build/usart.o
-                0x0800045c                HAL_UART_MspInit
+                0x080006d0       0x84 build/usart.o
+                0x080006d0                HAL_UART_MspInit
  .text.HAL_InitTick
-                0x080004e0       0x50 build/stm32g4xx_hal.o
-                0x080004e0                HAL_InitTick
+                0x08000754       0x50 build/stm32g4xx_hal.o
+                0x08000754                HAL_InitTick
  .text.HAL_Init
-                0x08000530       0x1e build/stm32g4xx_hal.o
-                0x08000530                HAL_Init
- *fill*         0x0800054e        0x2 
+                0x080007a4       0x1e build/stm32g4xx_hal.o
+                0x080007a4                HAL_Init
+ *fill*         0x080007c2        0x2 
  .text.HAL_IncTick
-                0x08000550       0x18 build/stm32g4xx_hal.o
-                0x08000550                HAL_IncTick
+                0x080007c4       0x18 build/stm32g4xx_hal.o
+                0x080007c4                HAL_IncTick
  .text.HAL_GetTick
-                0x08000568        0xc build/stm32g4xx_hal.o
-                0x08000568                HAL_GetTick
+                0x080007dc        0xc build/stm32g4xx_hal.o
+                0x080007dc                HAL_GetTick
+ .text.LL_ADC_REG_SetSequencerRanks
+                0x080007e8       0x30 build/stm32g4xx_hal_adc.o
+ .text.LL_ADC_SetChannelSamplingTime
+                0x08000818       0x2c build/stm32g4xx_hal_adc.o
+ .text.HAL_ADC_Init
+                0x08000844      0x29c build/stm32g4xx_hal_adc.o
+                0x08000844                HAL_ADC_Init
+ .text.HAL_ADC_PollForConversion
+                0x08000ae0      0x158 build/stm32g4xx_hal_adc.o
+                0x08000ae0                HAL_ADC_PollForConversion
+ .text.HAL_ADC_GetValue
+                0x08000c38        0x6 build/stm32g4xx_hal_adc.o
+                0x08000c38                HAL_ADC_GetValue
+ *fill*         0x08000c3e        0x2 
+ .text.HAL_ADC_ConfigChannel
+                0x08000c40      0x4b4 build/stm32g4xx_hal_adc.o
+                0x08000c40                HAL_ADC_ConfigChannel
+ .text.ADC_ConversionStop
+                0x080010f4      0x104 build/stm32g4xx_hal_adc.o
+                0x080010f4                ADC_ConversionStop
+ .text.ADC_Enable
+                0x080011f8       0xf8 build/stm32g4xx_hal_adc.o
+                0x080011f8                ADC_Enable
+ .text.HAL_ADC_Start
+                0x080012f0      0x134 build/stm32g4xx_hal_adc.o
+                0x080012f0                HAL_ADC_Start
+ .text.ADC_Disable
+                0x08001424       0x94 build/stm32g4xx_hal_adc.o
+                0x08001424                ADC_Disable
+ .text.HAL_ADC_Stop
+                0x080014b8       0x42 build/stm32g4xx_hal_adc.o
+                0x080014b8                HAL_ADC_Stop
+ *fill*         0x080014fa        0x2 
+ .text.HAL_ADCEx_MultiModeConfigChannel
+                0x080014fc      0x1d4 build/stm32g4xx_hal_adc_ex.o
+                0x080014fc                HAL_ADCEx_MultiModeConfigChannel
  .text.__NVIC_EnableIRQ
-                0x08000574       0x1c build/stm32g4xx_hal_cortex.o
+                0x080016d0       0x1c build/stm32g4xx_hal_cortex.o
  .text.__NVIC_SetPriority
-                0x08000590       0x28 build/stm32g4xx_hal_cortex.o
+                0x080016ec       0x28 build/stm32g4xx_hal_cortex.o
  .text.NVIC_EncodePriority
-                0x080005b8       0x3e build/stm32g4xx_hal_cortex.o
- *fill*         0x080005f6        0x2 
+                0x08001714       0x3e build/stm32g4xx_hal_cortex.o
+ *fill*         0x08001752        0x2 
  .text.HAL_NVIC_SetPriorityGrouping
-                0x080005f8       0x24 build/stm32g4xx_hal_cortex.o
-                0x080005f8                HAL_NVIC_SetPriorityGrouping
+                0x08001754       0x24 build/stm32g4xx_hal_cortex.o
+                0x08001754                HAL_NVIC_SetPriorityGrouping
  .text.HAL_NVIC_SetPriority
-                0x0800061c       0x20 build/stm32g4xx_hal_cortex.o
-                0x0800061c                HAL_NVIC_SetPriority
+                0x08001778       0x20 build/stm32g4xx_hal_cortex.o
+                0x08001778                HAL_NVIC_SetPriority
  .text.HAL_NVIC_EnableIRQ
-                0x0800063c        0x8 build/stm32g4xx_hal_cortex.o
-                0x0800063c                HAL_NVIC_EnableIRQ
+                0x08001798        0x8 build/stm32g4xx_hal_cortex.o
+                0x08001798                HAL_NVIC_EnableIRQ
  .text.HAL_SYSTICK_Config
-                0x08000644       0x28 build/stm32g4xx_hal_cortex.o
-                0x08000644                HAL_SYSTICK_Config
+                0x080017a0       0x28 build/stm32g4xx_hal_cortex.o
+                0x080017a0                HAL_SYSTICK_Config
  .text.HAL_GPIO_Init
-                0x0800066c      0x1d4 build/stm32g4xx_hal_gpio.o
-                0x0800066c                HAL_GPIO_Init
+                0x080017c8      0x1d4 build/stm32g4xx_hal_gpio.o
+                0x080017c8                HAL_GPIO_Init
  .text.HAL_GPIO_WritePin
-                0x08000840        0xa build/stm32g4xx_hal_gpio.o
-                0x08000840                HAL_GPIO_WritePin
+                0x0800199c        0xa build/stm32g4xx_hal_gpio.o
+                0x0800199c                HAL_GPIO_WritePin
  .text.HAL_GPIO_EXTI_Callback
-                0x0800084a        0x2 build/stm32g4xx_hal_gpio.o
-                0x0800084a                HAL_GPIO_EXTI_Callback
+                0x080019a6        0x2 build/stm32g4xx_hal_gpio.o
+                0x080019a6                HAL_GPIO_EXTI_Callback
  .text.HAL_GPIO_EXTI_IRQHandler
-                0x0800084c       0x1c build/stm32g4xx_hal_gpio.o
-                0x0800084c                HAL_GPIO_EXTI_IRQHandler
+                0x080019a8       0x1c build/stm32g4xx_hal_gpio.o
+                0x080019a8                HAL_GPIO_EXTI_IRQHandler
  .text.HAL_PWREx_ControlVoltageScaling
-                0x08000868      0x10c build/stm32g4xx_hal_pwr_ex.o
-                0x08000868                HAL_PWREx_ControlVoltageScaling
+                0x080019c4      0x10c build/stm32g4xx_hal_pwr_ex.o
+                0x080019c4                HAL_PWREx_ControlVoltageScaling
  .text.HAL_PWREx_DisableUCPDDeadBattery
-                0x08000974       0x10 build/stm32g4xx_hal_pwr_ex.o
-                0x08000974                HAL_PWREx_DisableUCPDDeadBattery
+                0x08001ad0       0x10 build/stm32g4xx_hal_pwr_ex.o
+                0x08001ad0                HAL_PWREx_DisableUCPDDeadBattery
  .text.RCC_GetSysClockFreqFromPLLSource
-                0x08000984       0x58 build/stm32g4xx_hal_rcc.o
+                0x08001ae0       0x58 build/stm32g4xx_hal_rcc.o
  .text.HAL_RCC_OscConfig
-                0x080009dc      0x4e4 build/stm32g4xx_hal_rcc.o
-                0x080009dc                HAL_RCC_OscConfig
+                0x08001b38      0x4e4 build/stm32g4xx_hal_rcc.o
+                0x08001b38                HAL_RCC_OscConfig
  .text.HAL_RCC_GetSysClockFreq
-                0x08000ec0       0x88 build/stm32g4xx_hal_rcc.o
-                0x08000ec0                HAL_RCC_GetSysClockFreq
+                0x0800201c       0x88 build/stm32g4xx_hal_rcc.o
+                0x0800201c                HAL_RCC_GetSysClockFreq
  .text.HAL_RCC_ClockConfig
-                0x08000f48      0x1f8 build/stm32g4xx_hal_rcc.o
-                0x08000f48                HAL_RCC_ClockConfig
+                0x080020a4      0x1f8 build/stm32g4xx_hal_rcc.o
+                0x080020a4                HAL_RCC_ClockConfig
  .text.HAL_RCC_GetHCLKFreq
-                0x08001140        0xc build/stm32g4xx_hal_rcc.o
-                0x08001140                HAL_RCC_GetHCLKFreq
+                0x0800229c        0xc build/stm32g4xx_hal_rcc.o
+                0x0800229c                HAL_RCC_GetHCLKFreq
  .text.HAL_RCC_GetPCLK1Freq
-                0x0800114c       0x24 build/stm32g4xx_hal_rcc.o
-                0x0800114c                HAL_RCC_GetPCLK1Freq
+                0x080022a8       0x24 build/stm32g4xx_hal_rcc.o
+                0x080022a8                HAL_RCC_GetPCLK1Freq
  .text.HAL_RCC_GetPCLK2Freq
-                0x08001170       0x24 build/stm32g4xx_hal_rcc.o
-                0x08001170                HAL_RCC_GetPCLK2Freq
+                0x080022cc       0x24 build/stm32g4xx_hal_rcc.o
+                0x080022cc                HAL_RCC_GetPCLK2Freq
  .text.HAL_RCCEx_PeriphCLKConfig
-                0x08001194      0x378 build/stm32g4xx_hal_rcc_ex.o
-                0x08001194                HAL_RCCEx_PeriphCLKConfig
+                0x080022f0      0x378 build/stm32g4xx_hal_rcc_ex.o
+                0x080022f0                HAL_RCCEx_PeriphCLKConfig
  .text.UART_EndRxTransfer
-                0x0800150c       0x56 build/stm32g4xx_hal_uart.o
- *fill*         0x08001562        0x2 
+                0x08002668       0x56 build/stm32g4xx_hal_uart.o
+ *fill*         0x080026be        0x2 
  .text.UART_SetConfig
-                0x08001564      0x388 build/stm32g4xx_hal_uart.o
-                0x08001564                UART_SetConfig
+                0x080026c0      0x388 build/stm32g4xx_hal_uart.o
+                0x080026c0                UART_SetConfig
  .text.UART_AdvFeatureConfig
-                0x080018ec       0xca build/stm32g4xx_hal_uart.o
-                0x080018ec                UART_AdvFeatureConfig
+                0x08002a48       0xca build/stm32g4xx_hal_uart.o
+                0x08002a48                UART_AdvFeatureConfig
  .text.UART_WaitOnFlagUntilTimeout
-                0x080019b6       0x9e build/stm32g4xx_hal_uart.o
-                0x080019b6                UART_WaitOnFlagUntilTimeout
+                0x08002b12       0x9e build/stm32g4xx_hal_uart.o
+                0x08002b12                UART_WaitOnFlagUntilTimeout
+ .text.HAL_UART_Transmit
+                0x08002bb0       0xd2 build/stm32g4xx_hal_uart.o
+                0x08002bb0                HAL_UART_Transmit
  .text.UART_CheckIdleState
-                0x08001a54       0xca build/stm32g4xx_hal_uart.o
-                0x08001a54                UART_CheckIdleState
+                0x08002c82       0xca build/stm32g4xx_hal_uart.o
+                0x08002c82                UART_CheckIdleState
  .text.HAL_UART_Init
-                0x08001b1e       0x66 build/stm32g4xx_hal_uart.o
-                0x08001b1e                HAL_UART_Init
+                0x08002d4c       0x66 build/stm32g4xx_hal_uart.o
+                0x08002d4c                HAL_UART_Init
+ *fill*         0x08002db2        0x2 
  .text.UARTEx_SetNbDataToProcess
-                0x08001b84       0x4c build/stm32g4xx_hal_uart_ex.o
+                0x08002db4       0x4c build/stm32g4xx_hal_uart_ex.o
  .text.HAL_UARTEx_DisableFifoMode
-                0x08001bd0       0x3e build/stm32g4xx_hal_uart_ex.o
-                0x08001bd0                HAL_UARTEx_DisableFifoMode
+                0x08002e00       0x3e build/stm32g4xx_hal_uart_ex.o
+                0x08002e00                HAL_UARTEx_DisableFifoMode
  .text.HAL_UARTEx_SetTxFifoThreshold
-                0x08001c0e       0x4a build/stm32g4xx_hal_uart_ex.o
-                0x08001c0e                HAL_UARTEx_SetTxFifoThreshold
+                0x08002e3e       0x4a build/stm32g4xx_hal_uart_ex.o
+                0x08002e3e                HAL_UARTEx_SetTxFifoThreshold
  .text.HAL_UARTEx_SetRxFifoThreshold
-                0x08001c58       0x4a build/stm32g4xx_hal_uart_ex.o
-                0x08001c58                HAL_UARTEx_SetRxFifoThreshold
- *fill*         0x08001ca2        0x2 
+                0x08002e88       0x4a build/stm32g4xx_hal_uart_ex.o
+                0x08002e88                HAL_UARTEx_SetRxFifoThreshold
+ *fill*         0x08002ed2        0x2 
  .text.Reset_Handler
-                0x08001ca4       0x50 build/startup_stm32g474xx.o
-                0x08001ca4                Reset_Handler
+                0x08002ed4       0x50 build/startup_stm32g474xx.o
+                0x08002ed4                Reset_Handler
  .text.Default_Handler
-                0x08001cf4        0x2 build/startup_stm32g474xx.o
-                0x08001cf4                RTC_Alarm_IRQHandler
-                0x08001cf4                EXTI2_IRQHandler
-                0x08001cf4                TIM8_TRG_COM_IRQHandler
-                0x08001cf4                TIM8_CC_IRQHandler
-                0x08001cf4                HRTIM1_Master_IRQHandler
-                0x08001cf4                SPI4_IRQHandler
-                0x08001cf4                FDCAN3_IT0_IRQHandler
-                0x08001cf4                TIM1_CC_IRQHandler
-                0x08001cf4                HRTIM1_FLT_IRQHandler
-                0x08001cf4                HRTIM1_TIMF_IRQHandler
-                0x08001cf4                USB_HP_IRQHandler
-                0x08001cf4                CORDIC_IRQHandler
-                0x08001cf4                HRTIM1_TIMD_IRQHandler
-                0x08001cf4                DMA2_Channel8_IRQHandler
-                0x08001cf4                EXTI3_IRQHandler
-                0x08001cf4                I2C3_ER_IRQHandler
-                0x08001cf4                EXTI0_IRQHandler
-                0x08001cf4                I2C2_EV_IRQHandler
-                0x08001cf4                FPU_IRQHandler
-                0x08001cf4                FDCAN1_IT1_IRQHandler
-                0x08001cf4                TIM1_UP_TIM16_IRQHandler
-                0x08001cf4                ADC1_2_IRQHandler
-                0x08001cf4                HRTIM1_TIME_IRQHandler
-                0x08001cf4                SPI1_IRQHandler
-                0x08001cf4                TIM6_DAC_IRQHandler
-                0x08001cf4                HRTIM1_TIMC_IRQHandler
-                0x08001cf4                TIM8_UP_IRQHandler
-                0x08001cf4                DMA2_Channel2_IRQHandler
-                0x08001cf4                DMA1_Channel4_IRQHandler
-                0x08001cf4                TIM20_TRG_COM_IRQHandler
-                0x08001cf4                USART3_IRQHandler
-                0x08001cf4                DMA1_Channel7_IRQHandler
-                0x08001cf4                UART5_IRQHandler
-                0x08001cf4                ADC3_IRQHandler
-                0x08001cf4                TIM4_IRQHandler
-                0x08001cf4                DMA2_Channel1_IRQHandler
-                0x08001cf4                QUADSPI_IRQHandler
-                0x08001cf4                I2C1_EV_IRQHandler
-                0x08001cf4                DMA1_Channel6_IRQHandler
-                0x08001cf4                UART4_IRQHandler
-                0x08001cf4                DMA2_Channel4_IRQHandler
-                0x08001cf4                TIM3_IRQHandler
-                0x08001cf4                RCC_IRQHandler
-                0x08001cf4                TIM20_UP_IRQHandler
-                0x08001cf4                DMA1_Channel1_IRQHandler
-                0x08001cf4                Default_Handler
-                0x08001cf4                DMA2_Channel7_IRQHandler
-                0x08001cf4                RTC_TAMP_LSECSS_IRQHandler
-                0x08001cf4                FMAC_IRQHandler
-                0x08001cf4                DMA1_Channel8_IRQHandler
-                0x08001cf4                HRTIM1_TIMA_IRQHandler
-                0x08001cf4                TIM7_DAC_IRQHandler
-                0x08001cf4                FDCAN3_IT1_IRQHandler
-                0x08001cf4                TIM5_IRQHandler
-                0x08001cf4                UCPD1_IRQHandler
-                0x08001cf4                I2C3_EV_IRQHandler
-                0x08001cf4                EXTI9_5_IRQHandler
-                0x08001cf4                RTC_WKUP_IRQHandler
-                0x08001cf4                PVD_PVM_IRQHandler
-                0x08001cf4                SPI2_IRQHandler
-                0x08001cf4                ADC5_IRQHandler
-                0x08001cf4                DMA2_Channel5_IRQHandler
-                0x08001cf4                CRS_IRQHandler
-                0x08001cf4                DMA1_Channel5_IRQHandler
-                0x08001cf4                USB_LP_IRQHandler
-                0x08001cf4                EXTI4_IRQHandler
-                0x08001cf4                RNG_IRQHandler
-                0x08001cf4                HRTIM1_TIMB_IRQHandler
-                0x08001cf4                TIM1_TRG_COM_TIM17_IRQHandler
-                0x08001cf4                FDCAN2_IT1_IRQHandler
-                0x08001cf4                DMA1_Channel3_IRQHandler
-                0x08001cf4                ADC4_IRQHandler
-                0x08001cf4                WWDG_IRQHandler
-                0x08001cf4                I2C4_EV_IRQHandler
-                0x08001cf4                FDCAN2_IT0_IRQHandler
-                0x08001cf4                LPUART1_IRQHandler
-                0x08001cf4                DMA2_Channel6_IRQHandler
-                0x08001cf4                FDCAN1_IT0_IRQHandler
-                0x08001cf4                TIM2_IRQHandler
-                0x08001cf4                COMP7_IRQHandler
-                0x08001cf4                COMP1_2_3_IRQHandler
-                0x08001cf4                EXTI1_IRQHandler
-                0x08001cf4                USART2_IRQHandler
-                0x08001cf4                COMP4_5_6_IRQHandler
-                0x08001cf4                TIM20_BRK_IRQHandler
-                0x08001cf4                I2C2_ER_IRQHandler
-                0x08001cf4                DMA1_Channel2_IRQHandler
-                0x08001cf4                TIM8_BRK_IRQHandler
-                0x08001cf4                FLASH_IRQHandler
-                0x08001cf4                TIM20_CC_IRQHandler
-                0x08001cf4                USART1_IRQHandler
-                0x08001cf4                SPI3_IRQHandler
-                0x08001cf4                I2C1_ER_IRQHandler
-                0x08001cf4                FMC_IRQHandler
-                0x08001cf4                LPTIM1_IRQHandler
-                0x08001cf4                DMAMUX_OVR_IRQHandler
-                0x08001cf4                I2C4_ER_IRQHandler
-                0x08001cf4                USBWakeUp_IRQHandler
-                0x08001cf4                SAI1_IRQHandler
-                0x08001cf4                DMA2_Channel3_IRQHandler
-                0x08001cf4                TIM1_BRK_TIM15_IRQHandler
- .text.memset   0x08001cf6       0x10 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
-                0x08001cf6                memset
- *fill*         0x08001d06        0x2 
+                0x08002f24        0x2 build/startup_stm32g474xx.o
+                0x08002f24                RTC_Alarm_IRQHandler
+                0x08002f24                EXTI2_IRQHandler
+                0x08002f24                TIM8_TRG_COM_IRQHandler
+                0x08002f24                TIM8_CC_IRQHandler
+                0x08002f24                HRTIM1_Master_IRQHandler
+                0x08002f24                SPI4_IRQHandler
+                0x08002f24                FDCAN3_IT0_IRQHandler
+                0x08002f24                TIM1_CC_IRQHandler
+                0x08002f24                HRTIM1_FLT_IRQHandler
+                0x08002f24                HRTIM1_TIMF_IRQHandler
+                0x08002f24                USB_HP_IRQHandler
+                0x08002f24                CORDIC_IRQHandler
+                0x08002f24                HRTIM1_TIMD_IRQHandler
+                0x08002f24                DMA2_Channel8_IRQHandler
+                0x08002f24                EXTI3_IRQHandler
+                0x08002f24                I2C3_ER_IRQHandler
+                0x08002f24                EXTI0_IRQHandler
+                0x08002f24                I2C2_EV_IRQHandler
+                0x08002f24                FPU_IRQHandler
+                0x08002f24                FDCAN1_IT1_IRQHandler
+                0x08002f24                TIM1_UP_TIM16_IRQHandler
+                0x08002f24                ADC1_2_IRQHandler
+                0x08002f24                HRTIM1_TIME_IRQHandler
+                0x08002f24                SPI1_IRQHandler
+                0x08002f24                TIM6_DAC_IRQHandler
+                0x08002f24                HRTIM1_TIMC_IRQHandler
+                0x08002f24                TIM8_UP_IRQHandler
+                0x08002f24                DMA2_Channel2_IRQHandler
+                0x08002f24                DMA1_Channel4_IRQHandler
+                0x08002f24                TIM20_TRG_COM_IRQHandler
+                0x08002f24                USART3_IRQHandler
+                0x08002f24                DMA1_Channel7_IRQHandler
+                0x08002f24                UART5_IRQHandler
+                0x08002f24                ADC3_IRQHandler
+                0x08002f24                TIM4_IRQHandler
+                0x08002f24                DMA2_Channel1_IRQHandler
+                0x08002f24                QUADSPI_IRQHandler
+                0x08002f24                I2C1_EV_IRQHandler
+                0x08002f24                DMA1_Channel6_IRQHandler
+                0x08002f24                UART4_IRQHandler
+                0x08002f24                DMA2_Channel4_IRQHandler
+                0x08002f24                TIM3_IRQHandler
+                0x08002f24                RCC_IRQHandler
+                0x08002f24                TIM20_UP_IRQHandler
+                0x08002f24                DMA1_Channel1_IRQHandler
+                0x08002f24                Default_Handler
+                0x08002f24                DMA2_Channel7_IRQHandler
+                0x08002f24                RTC_TAMP_LSECSS_IRQHandler
+                0x08002f24                FMAC_IRQHandler
+                0x08002f24                DMA1_Channel8_IRQHandler
+                0x08002f24                HRTIM1_TIMA_IRQHandler
+                0x08002f24                TIM7_DAC_IRQHandler
+                0x08002f24                FDCAN3_IT1_IRQHandler
+                0x08002f24                TIM5_IRQHandler
+                0x08002f24                UCPD1_IRQHandler
+                0x08002f24                I2C3_EV_IRQHandler
+                0x08002f24                EXTI9_5_IRQHandler
+                0x08002f24                RTC_WKUP_IRQHandler
+                0x08002f24                PVD_PVM_IRQHandler
+                0x08002f24                SPI2_IRQHandler
+                0x08002f24                ADC5_IRQHandler
+                0x08002f24                DMA2_Channel5_IRQHandler
+                0x08002f24                CRS_IRQHandler
+                0x08002f24                DMA1_Channel5_IRQHandler
+                0x08002f24                USB_LP_IRQHandler
+                0x08002f24                EXTI4_IRQHandler
+                0x08002f24                RNG_IRQHandler
+                0x08002f24                HRTIM1_TIMB_IRQHandler
+                0x08002f24                TIM1_TRG_COM_TIM17_IRQHandler
+                0x08002f24                FDCAN2_IT1_IRQHandler
+                0x08002f24                DMA1_Channel3_IRQHandler
+                0x08002f24                ADC4_IRQHandler
+                0x08002f24                WWDG_IRQHandler
+                0x08002f24                I2C4_EV_IRQHandler
+                0x08002f24                FDCAN2_IT0_IRQHandler
+                0x08002f24                LPUART1_IRQHandler
+                0x08002f24                DMA2_Channel6_IRQHandler
+                0x08002f24                FDCAN1_IT0_IRQHandler
+                0x08002f24                TIM2_IRQHandler
+                0x08002f24                COMP7_IRQHandler
+                0x08002f24                COMP1_2_3_IRQHandler
+                0x08002f24                EXTI1_IRQHandler
+                0x08002f24                USART2_IRQHandler
+                0x08002f24                COMP4_5_6_IRQHandler
+                0x08002f24                TIM20_BRK_IRQHandler
+                0x08002f24                I2C2_ER_IRQHandler
+                0x08002f24                DMA1_Channel2_IRQHandler
+                0x08002f24                TIM8_BRK_IRQHandler
+                0x08002f24                FLASH_IRQHandler
+                0x08002f24                TIM20_CC_IRQHandler
+                0x08002f24                USART1_IRQHandler
+                0x08002f24                SPI3_IRQHandler
+                0x08002f24                I2C1_ER_IRQHandler
+                0x08002f24                FMC_IRQHandler
+                0x08002f24                LPTIM1_IRQHandler
+                0x08002f24                DMAMUX_OVR_IRQHandler
+                0x08002f24                I2C4_ER_IRQHandler
+                0x08002f24                USBWakeUp_IRQHandler
+                0x08002f24                SAI1_IRQHandler
+                0x08002f24                DMA2_Channel3_IRQHandler
+                0x08002f24                TIM1_BRK_TIM15_IRQHandler
+ *fill*         0x08002f26        0x2 
+ .text.sprintf  0x08002f28       0x40 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sprintf.o)
+                0x08002f28                sprintf
+                0x08002f28                siprintf
+ .text.memset   0x08002f68       0x10 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
+                0x08002f68                memset
+ .text.__errno  0x08002f78        0xc /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-errno.o)
+                0x08002f78                __errno
  .text.__libc_init_array
-                0x08001d08       0x48 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
-                0x08001d08                __libc_init_array
+                0x08002f84       0x48 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+                0x08002f84                __libc_init_array
+ .text.__retarget_lock_acquire_recursive
+                0x08002fcc        0x2 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+                0x08002fcc                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x08002fce        0x2 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+                0x08002fce                __retarget_lock_release_recursive
+ .text._free_r  0x08002fd0       0x94 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+                0x08002fd0                _free_r
+ .text.sbrk_aligned
+                0x08003064       0x44 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .text._malloc_r
+                0x080030a8      0x100 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+                0x080030a8                _malloc_r
+ .text.__malloc_lock
+                0x080031a8        0xc /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+                0x080031a8                __malloc_lock
+ .text.__malloc_unlock
+                0x080031b4        0xc /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+                0x080031b4                __malloc_unlock
+ .text.__ssputs_r
+                0x080031c0       0xb6 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-nano-svfprintf.o)
+                0x080031c0                __ssputs_r
+ *fill*         0x08003276        0x2 
+ .text._svfprintf_r
+                0x08003278      0x1f8 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-nano-svfprintf.o)
+                0x08003278                _svfprintf_r
+                0x08003278                _svfiprintf_r
+ .text._printf_common
+                0x08003470       0xda /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-nano-vfprintf_i.o)
+                0x08003470                _printf_common
+ *fill*         0x0800354a        0x2 
+ .text._printf_i
+                0x0800354c      0x258 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-nano-vfprintf_i.o)
+                0x0800354c                _printf_i
+ .text.memmove  0x080037a4       0x34 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memmove.o)
+                0x080037a4                memmove
+ .text._sbrk_r  0x080037d8       0x20 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+                0x080037d8                _sbrk_r
+ .text.memcpy   0x080037f8       0x1c /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+                0x080037f8                memcpy
+ .text._realloc_r
+                0x08003814       0x5c /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reallocr.o)
+                0x08003814                _realloc_r
+ .text._malloc_usable_size_r
+                0x08003870       0x10 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-msizer.o)
+                0x08003870                _malloc_usable_size_r
  .text.__udivmoddi4
-                0x08001d50      0x2bc /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
-                0x08001d50                __udivmoddi4
+                0x08003880      0x2bc /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+                0x08003880                __udivmoddi4
  *(.glue_7)
- .glue_7        0x0800200c        0x0 linker stubs
+ .glue_7        0x08003b3c        0x0 linker stubs
  *(.glue_7t)
- .glue_7t       0x0800200c        0x0 linker stubs
+ .glue_7t       0x08003b3c        0x0 linker stubs
  *(.eh_frame)
- .eh_frame      0x0800200c        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .eh_frame      0x08003b3c        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtbegin.o
  *(.init)
- .init          0x0800200c        0x4 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crti.o
-                0x0800200c                _init
- .init          0x08002010        0x8 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .init          0x08003b3c        0x4 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x08003b3c                _init
+ .init          0x08003b40        0x8 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtn.o
  *(.fini)
- .fini          0x08002018        0x4 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crti.o
-                0x08002018                _fini
- .fini          0x0800201c        0x8 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtn.o
-                0x08002024                        . = ALIGN (0x4)
-                0x08002024                        _etext = .
+ .fini          0x08003b48        0x4 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x08003b48                _fini
+ .fini          0x08003b4c        0x8 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtn.o
+                0x08003b54                        . = ALIGN (0x4)
+                0x08003b54                        _etext = .
 
-.vfp11_veneer   0x08002024        0x0
- .vfp11_veneer  0x08002024        0x0 linker stubs
+.vfp11_veneer   0x08003b54        0x0
+ .vfp11_veneer  0x08003b54        0x0 linker stubs
 
-.v4_bx          0x08002024        0x0
- .v4_bx         0x08002024        0x0 linker stubs
+.v4_bx          0x08003b54        0x0
+ .v4_bx         0x08003b54        0x0 linker stubs
 
-.iplt           0x08002024        0x0
- .iplt          0x08002024        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+.iplt           0x08003b54        0x0
+ .iplt          0x08003b54        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtbegin.o
 
-.rodata         0x08002024       0x40
-                0x08002024                        . = ALIGN (0x4)
+.rodata         0x08003b54       0x80
+                0x08003b54                        . = ALIGN (0x4)
  *(.rodata)
  *(.rodata*)
+ .rodata.main.str1.4
+                0x08003b54        0xc build/main.o
  .rodata.APBPrescTable
-                0x08002024        0x8 build/system_stm32g4xx.o
-                0x08002024                APBPrescTable
+                0x08003b60        0x8 build/system_stm32g4xx.o
+                0x08003b60                APBPrescTable
  .rodata.AHBPrescTable
-                0x0800202c       0x10 build/system_stm32g4xx.o
-                0x0800202c                AHBPrescTable
+                0x08003b68       0x10 build/system_stm32g4xx.o
+                0x08003b68                AHBPrescTable
  .rodata.UARTPrescTable
-                0x0800203c       0x18 build/stm32g4xx_hal_uart.o
-                0x0800203c                UARTPrescTable
+                0x08003b78       0x18 build/stm32g4xx_hal_uart.o
+                0x08003b78                UARTPrescTable
  .rodata.denominator.0
-                0x08002054        0x8 build/stm32g4xx_hal_uart_ex.o
+                0x08003b90        0x8 build/stm32g4xx_hal_uart_ex.o
  .rodata.numerator.1
-                0x0800205c        0x8 build/stm32g4xx_hal_uart_ex.o
-                0x08002064                        . = ALIGN (0x4)
+                0x08003b98        0x8 build/stm32g4xx_hal_uart_ex.o
+ .rodata._svfprintf_r.str1.1
+                0x08003ba0       0x11 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-nano-svfprintf.o)
+ .rodata._printf_i.str1.1
+                0x08003bb1       0x22 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-nano-vfprintf_i.o)
+                0x08003bd4                        . = ALIGN (0x4)
+ *fill*         0x08003bd3        0x1 
 
 .ARM.extab
  *(.ARM.extab* .gnu.linkonce.armextab.*)
 
-.ARM            0x08002064        0x8
-                0x08002064                        __exidx_start = .
+.ARM            0x08003bd4        0x8
+                0x08003bd4                        __exidx_start = .
  *(.ARM.exidx*)
+ .ARM.exidx     0x08003bd4        0x8 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-strlen.o)
+ .ARM.exidx     0x08003bdc        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memchr.o)
+                                  0x8 (size before relaxing)
  .ARM.exidx.text.__udivmoddi4
-                0x08002064        0x8 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
-                0x0800206c                        __exidx_end = .
+                0x08003bdc        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+                                  0x8 (size before relaxing)
+                0x08003bdc                        __exidx_end = .
 
-.rel.dyn        0x0800206c        0x0
- .rel.iplt      0x0800206c        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+.rel.dyn        0x08003bdc        0x0
+ .rel.iplt      0x08003bdc        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtbegin.o
 
-.preinit_array  0x0800206c        0x0
-                0x0800206c                        PROVIDE (__preinit_array_start = .)
+.preinit_array  0x08003bdc        0x0
+                0x08003bdc                        PROVIDE (__preinit_array_start = .)
  *(.preinit_array*)
-                0x0800206c                        PROVIDE (__preinit_array_end = .)
+                0x08003bdc                        PROVIDE (__preinit_array_end = .)
 
-.init_array     0x0800206c        0x4
-                0x0800206c                        PROVIDE (__init_array_start = .)
+.init_array     0x08003bdc        0x4
+                0x08003bdc                        PROVIDE (__init_array_start = .)
  *(SORT_BY_NAME(.init_array.*))
  *(.init_array*)
- .init_array    0x0800206c        0x4 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtbegin.o
-                0x08002070                        PROVIDE (__init_array_end = .)
+ .init_array    0x08003bdc        0x4 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x08003be0                        PROVIDE (__init_array_end = .)
 
-.fini_array     0x08002070        0x4
-                0x08002070                        PROVIDE (__fini_array_start = .)
+.fini_array     0x08003be0        0x4
+                0x08003be0                        PROVIDE (__fini_array_start = .)
  *(SORT_BY_NAME(.fini_array.*))
  *(.fini_array*)
- .fini_array    0x08002070        0x4 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtbegin.o
-                0x08002074                        PROVIDE (__fini_array_end = .)
-                0x08002074                        _sidata = LOADADDR (.data)
+ .fini_array    0x08003be0        0x4 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x08003be4                        PROVIDE (__fini_array_end = .)
+                0x08003be4                        _sidata = LOADADDR (.data)
 
-.data           0x20000000        0xc load address 0x08002074
+.data           0x20000000       0x5c load address 0x08003be4
                 0x20000000                        . = ALIGN (0x4)
                 0x20000000                        _sdata = .
  *(.data)
@@ -1590,41 +1805,65 @@ LOAD /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-
  .data.uwTickPrio
                 0x20000008        0x4 build/stm32g4xx_hal.o
                 0x20000008                uwTickPrio
-                0x2000000c                        . = ALIGN (0x4)
-                0x2000000c                        _edata = .
+ .data._impure_ptr
+                0x2000000c        0x4 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+                0x2000000c                _impure_ptr
+ .data._impure_data
+                0x20000010       0x4c /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+                0x20000010                _impure_data
+                0x2000005c                        . = ALIGN (0x4)
+                0x2000005c                        _edata = .
 
-.igot.plt       0x2000000c        0x0 load address 0x08002080
- .igot.plt      0x2000000c        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtbegin.o
-                0x2000000c                        . = ALIGN (0x4)
+.igot.plt       0x2000005c        0x0 load address 0x08003c40
+ .igot.plt      0x2000005c        0x0 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x2000005c                        . = ALIGN (0x4)
 
-.bss            0x2000000c       0xb4 load address 0x08002080
-                0x2000000c                        _sbss = .
-                0x2000000c                        __bss_start__ = _sbss
+.bss            0x2000005c      0x26c load address 0x08003c40
+                0x2000005c                        _sbss = .
+                0x2000005c                        __bss_start__ = _sbss
  *(.bss)
  *(.bss*)
  .bss.completed.1
-                0x2000000c        0x1 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtbegin.o
- *fill*         0x2000000d        0x3 
- .bss.object.0  0x20000010       0x18 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtbegin.o
- .bss.hlpuart1  0x20000028       0x94 build/usart.o
-                0x20000028                hlpuart1
- .bss.uwTick    0x200000bc        0x4 build/stm32g4xx_hal.o
-                0x200000bc                uwTick
+                0x2000005c        0x1 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *fill*         0x2000005d        0x3 
+ .bss.object.0  0x20000060       0x18 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .bss.hadc1     0x20000078       0x6c build/adc.o
+                0x20000078                hadc1
+ .bss.__sbrk_heap_end
+                0x200000e4        0x4 build/sysmem.o
+ .bss.hlpuart1  0x200000e8       0x94 build/usart.o
+                0x200000e8                hlpuart1
+ .bss.uwTick    0x2000017c        0x4 build/stm32g4xx_hal.o
+                0x2000017c                uwTick
+ .bss.__sf      0x20000180      0x138 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+                0x20000180                __sf
+ .bss.errno     0x200002b8        0x4 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+                0x200002b8                errno
+ .bss.__lock___malloc_recursive_mutex
+                0x200002bc        0x1 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+                0x200002bc                __lock___malloc_recursive_mutex
+ *fill*         0x200002bd        0x3 
+ .bss.__malloc_sbrk_start
+                0x200002c0        0x4 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+                0x200002c0                __malloc_sbrk_start
+ .bss.__malloc_free_list
+                0x200002c4        0x4 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+                0x200002c4                __malloc_free_list
  *(COMMON)
-                0x200000c0                        . = ALIGN (0x4)
-                0x200000c0                        _ebss = .
-                0x200000c0                        __bss_end__ = _ebss
+                0x200002c8                        . = ALIGN (0x4)
+                0x200002c8                        _ebss = .
+                0x200002c8                        __bss_end__ = _ebss
 
 ._user_heap_stack
-                0x200000c0      0x600 load address 0x08002080
-                0x200000c0                        . = ALIGN (0x8)
+                0x200002c8      0x600 load address 0x08003c40
+                0x200002c8                        . = ALIGN (0x8)
                 [!provide]                        PROVIDE (end = .)
-                0x200000c0                        PROVIDE (_end = .)
-                0x200002c0                        . = (. + _Min_Heap_Size)
- *fill*         0x200000c0      0x200 
-                0x200006c0                        . = (. + _Min_Stack_Size)
- *fill*         0x200002c0      0x400 
-                0x200006c0                        . = ALIGN (0x8)
+                0x200002c8                        PROVIDE (_end = .)
+                0x200004c8                        . = (. + _Min_Heap_Size)
+ *fill*         0x200002c8      0x200 
+                0x200008c8                        . = (. + _Min_Stack_Size)
+ *fill*         0x200004c8      0x400 
+                0x200008c8                        . = ALIGN (0x8)
 
 /DISCARD/
  libc.a(*)
@@ -1639,47 +1878,91 @@ LOAD /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-
  .ARM.attributes
                 0x00000022       0x34 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtbegin.o
  .ARM.attributes
-                0x00000056       0x34 build/gpio.o
+                0x00000056       0x34 build/adc.o
  .ARM.attributes
-                0x0000008a       0x34 build/main.o
+                0x0000008a       0x34 build/gpio.o
  .ARM.attributes
-                0x000000be       0x34 build/stm32g4xx_hal_msp.o
+                0x000000be       0x34 build/main.o
  .ARM.attributes
-                0x000000f2       0x34 build/stm32g4xx_it.o
+                0x000000f2       0x34 build/stm32g4xx_hal_msp.o
  .ARM.attributes
-                0x00000126       0x34 build/system_stm32g4xx.o
+                0x00000126       0x34 build/stm32g4xx_it.o
  .ARM.attributes
-                0x0000015a       0x34 build/usart.o
+                0x0000015a       0x34 build/sysmem.o
  .ARM.attributes
-                0x0000018e       0x34 build/stm32g4xx_hal.o
+                0x0000018e       0x34 build/system_stm32g4xx.o
  .ARM.attributes
-                0x000001c2       0x34 build/stm32g4xx_hal_cortex.o
+                0x000001c2       0x34 build/usart.o
  .ARM.attributes
-                0x000001f6       0x34 build/stm32g4xx_hal_gpio.o
+                0x000001f6       0x34 build/stm32g4xx_hal.o
  .ARM.attributes
-                0x0000022a       0x34 build/stm32g4xx_hal_pwr_ex.o
+                0x0000022a       0x34 build/stm32g4xx_hal_adc.o
  .ARM.attributes
-                0x0000025e       0x34 build/stm32g4xx_hal_rcc.o
+                0x0000025e       0x34 build/stm32g4xx_hal_adc_ex.o
  .ARM.attributes
-                0x00000292       0x34 build/stm32g4xx_hal_rcc_ex.o
+                0x00000292       0x34 build/stm32g4xx_hal_cortex.o
  .ARM.attributes
-                0x000002c6       0x34 build/stm32g4xx_hal_uart.o
+                0x000002c6       0x34 build/stm32g4xx_hal_gpio.o
  .ARM.attributes
-                0x000002fa       0x34 build/stm32g4xx_hal_uart_ex.o
+                0x000002fa       0x34 build/stm32g4xx_hal_pwr_ex.o
  .ARM.attributes
-                0x0000032e       0x21 build/startup_stm32g474xx.o
+                0x0000032e       0x34 build/stm32g4xx_hal_rcc.o
  .ARM.attributes
-                0x0000034f       0x34 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
+                0x00000362       0x34 build/stm32g4xx_hal_rcc_ex.o
  .ARM.attributes
-                0x00000383       0x34 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+                0x00000396       0x34 build/stm32g4xx_hal_uart.o
  .ARM.attributes
-                0x000003b7       0x22 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+                0x000003ca       0x34 build/stm32g4xx_hal_uart_ex.o
  .ARM.attributes
-                0x000003d9       0x34 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+                0x000003fe       0x21 build/startup_stm32g474xx.o
  .ARM.attributes
-                0x0000040d       0x22 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
+                0x0000041f       0x34 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
  .ARM.attributes
-                0x0000042f       0x22 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtn.o
+                0x00000453       0x34 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sprintf.o)
+ .ARM.attributes
+                0x00000487       0x34 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
+ .ARM.attributes
+                0x000004bb       0x34 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .ARM.attributes
+                0x000004ef       0x34 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+ .ARM.attributes
+                0x00000523       0x34 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-errno.o)
+ .ARM.attributes
+                0x00000557       0x34 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+ .ARM.attributes
+                0x0000058b       0x34 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .ARM.attributes
+                0x000005bf       0x17 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-strlen.o)
+ .ARM.attributes
+                0x000005d6       0x34 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+ .ARM.attributes
+                0x0000060a       0x34 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .ARM.attributes
+                0x0000063e       0x34 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .ARM.attributes
+                0x00000672       0x34 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-nano-svfprintf.o)
+ .ARM.attributes
+                0x000006a6       0x34 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .ARM.attributes
+                0x000006da       0x34 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memmove.o)
+ .ARM.attributes
+                0x0000070e       0x34 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .ARM.attributes
+                0x00000742       0x1c /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memchr.o)
+ .ARM.attributes
+                0x0000075e       0x34 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000792       0x34 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reallocr.o)
+ .ARM.attributes
+                0x000007c6       0x34 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-msizer.o)
+ .ARM.attributes
+                0x000007fa       0x22 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x0000081c       0x34 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x00000850       0x22 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000872       0x22 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtn.o
 OUTPUT(build/sparkle-slave.elf elf32-littlearm)
 LOAD linker stubs
 LOAD /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a
@@ -1689,13 +1972,17 @@ LOAD /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-
 .comment        0x00000000       0x39
  .comment       0x00000000       0x39 /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtbegin.o
                                  0x3a (size before relaxing)
+ .comment       0x00000039       0x3a build/adc.o
  .comment       0x00000039       0x3a build/gpio.o
  .comment       0x00000039       0x3a build/main.o
  .comment       0x00000039       0x3a build/stm32g4xx_hal_msp.o
  .comment       0x00000039       0x3a build/stm32g4xx_it.o
+ .comment       0x00000039       0x3a build/sysmem.o
  .comment       0x00000039       0x3a build/system_stm32g4xx.o
  .comment       0x00000039       0x3a build/usart.o
  .comment       0x00000039       0x3a build/stm32g4xx_hal.o
+ .comment       0x00000039       0x3a build/stm32g4xx_hal_adc.o
+ .comment       0x00000039       0x3a build/stm32g4xx_hal_adc_ex.o
  .comment       0x00000039       0x3a build/stm32g4xx_hal_cortex.o
  .comment       0x00000039       0x3a build/stm32g4xx_hal_gpio.o
  .comment       0x00000039       0x3a build/stm32g4xx_hal_pwr_ex.o
@@ -1703,196 +1990,262 @@ LOAD /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-
  .comment       0x00000039       0x3a build/stm32g4xx_hal_rcc_ex.o
  .comment       0x00000039       0x3a build/stm32g4xx_hal_uart.o
  .comment       0x00000039       0x3a build/stm32g4xx_hal_uart_ex.o
+ .comment       0x00000039       0x3a /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .comment       0x00000039       0x3a /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sprintf.o)
  .comment       0x00000039       0x3a /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
+ .comment       0x00000039       0x3a /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .comment       0x00000039       0x3a /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+ .comment       0x00000039       0x3a /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-errno.o)
  .comment       0x00000039       0x3a /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+ .comment       0x00000039       0x3a /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .comment       0x00000039       0x3a /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+ .comment       0x00000039       0x3a /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .comment       0x00000039       0x3a /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .comment       0x00000039       0x3a /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-nano-svfprintf.o)
+ .comment       0x00000039       0x3a /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .comment       0x00000039       0x3a /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memmove.o)
+ .comment       0x00000039       0x3a /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .comment       0x00000039       0x3a /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+ .comment       0x00000039       0x3a /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reallocr.o)
+ .comment       0x00000039       0x3a /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-msizer.o)
  .comment       0x00000039       0x3a /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
 
-.debug_info     0x00000000     0xe230
- .debug_info    0x00000000      0x7e7 build/gpio.o
- .debug_info    0x000007e7      0x364 build/main.o
- .debug_info    0x00000b4b      0x2e3 build/stm32g4xx_hal_msp.o
- .debug_info    0x00000e2e      0x16c build/stm32g4xx_it.o
- .debug_info    0x00000f9a      0x5a3 build/system_stm32g4xx.o
- .debug_info    0x0000153d      0xeb3 build/usart.o
- .debug_info    0x000023f0      0xc4e build/stm32g4xx_hal.o
- .debug_info    0x0000303e      0xfde build/stm32g4xx_hal_cortex.o
- .debug_info    0x0000401c      0x795 build/stm32g4xx_hal_gpio.o
- .debug_info    0x000047b1      0x9bd build/stm32g4xx_hal_pwr_ex.o
- .debug_info    0x0000516e      0xe39 build/stm32g4xx_hal_rcc.o
- .debug_info    0x00005fa7      0xe5a build/stm32g4xx_hal_rcc_ex.o
- .debug_info    0x00006e01     0x61bc build/stm32g4xx_hal_uart.o
- .debug_info    0x0000cfbd     0x1243 build/stm32g4xx_hal_uart_ex.o
- .debug_info    0x0000e200       0x30 build/startup_stm32g474xx.o
+.debug_info     0x00000000    0x166d7
+ .debug_info    0x00000000     0x105b build/adc.o
+ .debug_info    0x0000105b      0x7e7 build/gpio.o
+ .debug_info    0x00001842     0x10bb build/main.o
+ .debug_info    0x000028fd      0x2e3 build/stm32g4xx_hal_msp.o
+ .debug_info    0x00002be0      0x16c build/stm32g4xx_it.o
+ .debug_info    0x00002d4c      0x171 build/sysmem.o
+ .debug_info    0x00002ebd      0x5a3 build/system_stm32g4xx.o
+ .debug_info    0x00003460      0xeb3 build/usart.o
+ .debug_info    0x00004313      0xc4e build/stm32g4xx_hal.o
+ .debug_info    0x00004f61     0x362e build/stm32g4xx_hal_adc.o
+ .debug_info    0x0000858f     0x2f56 build/stm32g4xx_hal_adc_ex.o
+ .debug_info    0x0000b4e5      0xfde build/stm32g4xx_hal_cortex.o
+ .debug_info    0x0000c4c3      0x795 build/stm32g4xx_hal_gpio.o
+ .debug_info    0x0000cc58      0x9bd build/stm32g4xx_hal_pwr_ex.o
+ .debug_info    0x0000d615      0xe39 build/stm32g4xx_hal_rcc.o
+ .debug_info    0x0000e44e      0xe5a build/stm32g4xx_hal_rcc_ex.o
+ .debug_info    0x0000f2a8     0x61bc build/stm32g4xx_hal_uart.o
+ .debug_info    0x00015464     0x1243 build/stm32g4xx_hal_uart_ex.o
+ .debug_info    0x000166a7       0x30 build/startup_stm32g474xx.o
 
-.debug_abbrev   0x00000000     0x1dcc
- .debug_abbrev  0x00000000      0x16d build/gpio.o
- .debug_abbrev  0x0000016d      0x17e build/main.o
- .debug_abbrev  0x000002eb       0xd7 build/stm32g4xx_hal_msp.o
- .debug_abbrev  0x000003c2       0xbb build/stm32g4xx_it.o
- .debug_abbrev  0x0000047d      0x11e build/system_stm32g4xx.o
- .debug_abbrev  0x0000059b      0x223 build/usart.o
- .debug_abbrev  0x000007be      0x27d build/stm32g4xx_hal.o
- .debug_abbrev  0x00000a3b      0x390 build/stm32g4xx_hal_cortex.o
- .debug_abbrev  0x00000dcb      0x1f9 build/stm32g4xx_hal_gpio.o
- .debug_abbrev  0x00000fc4      0x249 build/stm32g4xx_hal_pwr_ex.o
- .debug_abbrev  0x0000120d      0x2ab build/stm32g4xx_hal_rcc.o
- .debug_abbrev  0x000014b8      0x27f build/stm32g4xx_hal_rcc_ex.o
- .debug_abbrev  0x00001737      0x32e build/stm32g4xx_hal_uart.o
- .debug_abbrev  0x00001a65      0x343 build/stm32g4xx_hal_uart_ex.o
- .debug_abbrev  0x00001da8       0x24 build/startup_stm32g474xx.o
-
-.debug_aranges  0x00000000      0x950
- .debug_aranges
-                0x00000000       0x20 build/gpio.o
- .debug_aranges
-                0x00000020       0x30 build/main.o
- .debug_aranges
-                0x00000050       0x20 build/stm32g4xx_hal_msp.o
- .debug_aranges
-                0x00000070       0x68 build/stm32g4xx_it.o
- .debug_aranges
-                0x000000d8       0x28 build/system_stm32g4xx.o
- .debug_aranges
-                0x00000100       0x30 build/usart.o
- .debug_aranges
-                0x00000130      0x148 build/stm32g4xx_hal.o
- .debug_aranges
-                0x00000278       0xe0 build/stm32g4xx_hal_cortex.o
- .debug_aranges
-                0x00000358       0x58 build/stm32g4xx_hal_gpio.o
- .debug_aranges
-                0x000003b0      0x140 build/stm32g4xx_hal_pwr_ex.o
- .debug_aranges
-                0x000004f0       0x98 build/stm32g4xx_hal_rcc.o
- .debug_aranges
-                0x00000588       0xb0 build/stm32g4xx_hal_rcc_ex.o
- .debug_aranges
-                0x00000638      0x248 build/stm32g4xx_hal_uart.o
- .debug_aranges
-                0x00000880       0xa8 build/stm32g4xx_hal_uart_ex.o
- .debug_aranges
-                0x00000928       0x28 build/startup_stm32g474xx.o
-
-.debug_rnglists
-                0x00000000      0x70c
- .debug_rnglists
-                0x00000000       0x14 build/gpio.o
- .debug_rnglists
-                0x00000014       0x1f build/main.o
- .debug_rnglists
-                0x00000033       0x13 build/stm32g4xx_hal_msp.o
- .debug_rnglists
-                0x00000046       0x49 build/stm32g4xx_it.o
- .debug_rnglists
-                0x0000008f       0x1a build/system_stm32g4xx.o
- .debug_rnglists
-                0x000000a9       0x20 build/usart.o
- .debug_rnglists
-                0x000000c9       0xf1 build/stm32g4xx_hal.o
- .debug_rnglists
-                0x000001ba       0xa3 build/stm32g4xx_hal_cortex.o
- .debug_rnglists
-                0x0000025d       0x3f build/stm32g4xx_hal_gpio.o
- .debug_rnglists
-                0x0000029c       0xf1 build/stm32g4xx_hal_pwr_ex.o
- .debug_rnglists
-                0x0000038d       0x81 build/stm32g4xx_hal_rcc.o
- .debug_rnglists
-                0x0000040e       0x92 build/stm32g4xx_hal_rcc_ex.o
- .debug_rnglists
-                0x000004a0      0x1cb build/stm32g4xx_hal_uart.o
- .debug_rnglists
-                0x0000066b       0x88 build/stm32g4xx_hal_uart_ex.o
- .debug_rnglists
-                0x000006f3       0x19 build/startup_stm32g474xx.o
-
-.debug_line     0x00000000     0xc765
- .debug_line    0x00000000      0x285 build/gpio.o
- .debug_line    0x00000285      0x36b build/main.o
- .debug_line    0x000005f0      0x22a build/stm32g4xx_hal_msp.o
- .debug_line    0x0000081a      0x2fd build/stm32g4xx_it.o
- .debug_line    0x00000b17      0x2d4 build/system_stm32g4xx.o
- .debug_line    0x00000deb      0x3fa build/usart.o
- .debug_line    0x000011e5      0x75d build/stm32g4xx_hal.o
- .debug_line    0x00001942      0x897 build/stm32g4xx_hal_cortex.o
- .debug_line    0x000021d9      0x72a build/stm32g4xx_hal_gpio.o
- .debug_line    0x00002903      0xad5 build/stm32g4xx_hal_pwr_ex.o
- .debug_line    0x000033d8      0xe75 build/stm32g4xx_hal_rcc.o
- .debug_line    0x0000424d     0x12db build/stm32g4xx_hal_rcc_ex.o
- .debug_line    0x00005528     0x64a4 build/stm32g4xx_hal_uart.o
- .debug_line    0x0000b9cc      0xd22 build/stm32g4xx_hal_uart_ex.o
- .debug_line    0x0000c6ee       0x77 build/startup_stm32g474xx.o
-
-.debug_str      0x00000000     0x3536
- .debug_str     0x00000000      0x9b6 build/gpio.o
-                                0xa06 (size before relaxing)
- .debug_str     0x000009b6      0x205 build/main.o
-                                0x38e (size before relaxing)
- .debug_str     0x00000bbb       0x4a build/stm32g4xx_hal_msp.o
-                                0x30e (size before relaxing)
- .debug_str     0x00000c05       0xe2 build/stm32g4xx_it.o
-                                0x24d (size before relaxing)
- .debug_str     0x00000ce7       0xe2 build/system_stm32g4xx.o
-                                0x3a7 (size before relaxing)
- .debug_str     0x00000dc9      0x780 build/usart.o
-                                0xbb5 (size before relaxing)
- .debug_str     0x00001549      0x48c build/stm32g4xx_hal.o
-                                0xe1f (size before relaxing)
- .debug_str     0x000019d5      0x42e build/stm32g4xx_hal_cortex.o
-                                0xd3d (size before relaxing)
- .debug_str     0x00001e03       0xf5 build/stm32g4xx_hal_gpio.o
-                                0x520 (size before relaxing)
- .debug_str     0x00001ef8      0x4e8 build/stm32g4xx_hal_pwr_ex.o
-                                0x7c2 (size before relaxing)
- .debug_str     0x000023e0      0x286 build/stm32g4xx_hal_rcc.o
-                                0x835 (size before relaxing)
- .debug_str     0x00002666      0x37b build/stm32g4xx_hal_rcc_ex.o
-                                0xa45 (size before relaxing)
- .debug_str     0x000029e1      0x8dd build/stm32g4xx_hal_uart.o
-                               0x120a (size before relaxing)
- .debug_str     0x000032be      0x246 build/stm32g4xx_hal_uart_ex.o
-                                0xb3e (size before relaxing)
- .debug_str     0x00003504       0x32 build/startup_stm32g474xx.o
-                                 0x5a (size before relaxing)
-
-.debug_frame    0x00000000     0x1550
- .debug_frame   0x00000000       0x30 build/gpio.o
- .debug_frame   0x00000030       0x58 build/main.o
- .debug_frame   0x00000088       0x2c build/stm32g4xx_hal_msp.o
- .debug_frame   0x000000b4       0xc0 build/stm32g4xx_it.o
- .debug_frame   0x00000174       0x30 build/system_stm32g4xx.o
- .debug_frame   0x000001a4       0x60 build/usart.o
- .debug_frame   0x00000204      0x2a4 build/stm32g4xx_hal.o
- .debug_frame   0x000004a8      0x1e4 build/stm32g4xx_hal_cortex.o
- .debug_frame   0x0000068c       0xd0 build/stm32g4xx_hal_gpio.o
- .debug_frame   0x0000075c      0x268 build/stm32g4xx_hal_pwr_ex.o
- .debug_frame   0x000009c4      0x198 build/stm32g4xx_hal_rcc.o
- .debug_frame   0x00000b5c      0x1a0 build/stm32g4xx_hal_rcc_ex.o
- .debug_frame   0x00000cfc      0x67c build/stm32g4xx_hal_uart.o
- .debug_frame   0x00001378      0x1d8 build/stm32g4xx_hal_uart_ex.o
+.debug_abbrev   0x00000000     0x281b
+ .debug_abbrev  0x00000000      0x207 build/adc.o
+ .debug_abbrev  0x00000207      0x16d build/gpio.o
+ .debug_abbrev  0x00000374      0x24d build/main.o
+ .debug_abbrev  0x000005c1       0xd7 build/stm32g4xx_hal_msp.o
+ .debug_abbrev  0x00000698       0xbb build/stm32g4xx_it.o
+ .debug_abbrev  0x00000753       0xea build/sysmem.o
+ .debug_abbrev  0x0000083d      0x11e build/system_stm32g4xx.o
+ .debug_abbrev  0x0000095b      0x223 build/usart.o
+ .debug_abbrev  0x00000b7e      0x27d build/stm32g4xx_hal.o
+ .debug_abbrev  0x00000dfb      0x30d build/stm32g4xx_hal_adc.o
+ .debug_abbrev  0x00001108      0x382 build/stm32g4xx_hal_adc_ex.o
+ .debug_abbrev  0x0000148a      0x390 build/stm32g4xx_hal_cortex.o
+ .debug_abbrev  0x0000181a      0x1f9 build/stm32g4xx_hal_gpio.o
+ .debug_abbrev  0x00001a13      0x249 build/stm32g4xx_hal_pwr_ex.o
+ .debug_abbrev  0x00001c5c      0x2ab build/stm32g4xx_hal_rcc.o
+ .debug_abbrev  0x00001f07      0x27f build/stm32g4xx_hal_rcc_ex.o
+ .debug_abbrev  0x00002186      0x32e build/stm32g4xx_hal_uart.o
+ .debug_abbrev  0x000024b4      0x343 build/stm32g4xx_hal_uart_ex.o
+ .debug_abbrev  0x000027f7       0x24 build/startup_stm32g474xx.o
 
 .debug_loclists
-                0x00000000     0x5ef5
+                0x00000000     0x8eb7
  .debug_loclists
-                0x00000000       0x65 build/system_stm32g4xx.o
+                0x00000000       0x49 build/adc.o
  .debug_loclists
-                0x00000065       0x49 build/usart.o
+                0x00000049       0x20 build/main.o
  .debug_loclists
-                0x000000ae      0x12f build/stm32g4xx_hal.o
+                0x00000069       0x46 build/sysmem.o
  .debug_loclists
-                0x000001dd      0x431 build/stm32g4xx_hal_cortex.o
+                0x000000af       0x65 build/system_stm32g4xx.o
  .debug_loclists
-                0x0000060e      0x267 build/stm32g4xx_hal_gpio.o
+                0x00000114       0x49 build/usart.o
  .debug_loclists
-                0x00000875      0x59a build/stm32g4xx_hal_pwr_ex.o
+                0x0000015d      0x12f build/stm32g4xx_hal.o
  .debug_loclists
-                0x00000e0f      0x568 build/stm32g4xx_hal_rcc.o
+                0x0000028c     0x184f build/stm32g4xx_hal_adc.o
  .debug_loclists
-                0x00001377      0xf45 build/stm32g4xx_hal_rcc_ex.o
+                0x00001adb     0x16c4 build/stm32g4xx_hal_adc_ex.o
  .debug_loclists
-                0x000022bc     0x34e3 build/stm32g4xx_hal_uart.o
+                0x0000319f      0x431 build/stm32g4xx_hal_cortex.o
  .debug_loclists
-                0x0000579f      0x756 build/stm32g4xx_hal_uart_ex.o
+                0x000035d0      0x267 build/stm32g4xx_hal_gpio.o
+ .debug_loclists
+                0x00003837      0x59a build/stm32g4xx_hal_pwr_ex.o
+ .debug_loclists
+                0x00003dd1      0x568 build/stm32g4xx_hal_rcc.o
+ .debug_loclists
+                0x00004339      0xf45 build/stm32g4xx_hal_rcc_ex.o
+ .debug_loclists
+                0x0000527e     0x34e3 build/stm32g4xx_hal_uart.o
+ .debug_loclists
+                0x00008761      0x756 build/stm32g4xx_hal_uart_ex.o
+
+.debug_aranges  0x00000000      0xbc0
+ .debug_aranges
+                0x00000000       0x30 build/adc.o
+ .debug_aranges
+                0x00000030       0x20 build/gpio.o
+ .debug_aranges
+                0x00000050       0x30 build/main.o
+ .debug_aranges
+                0x00000080       0x20 build/stm32g4xx_hal_msp.o
+ .debug_aranges
+                0x000000a0       0x68 build/stm32g4xx_it.o
+ .debug_aranges
+                0x00000108       0x20 build/sysmem.o
+ .debug_aranges
+                0x00000128       0x28 build/system_stm32g4xx.o
+ .debug_aranges
+                0x00000150       0x30 build/usart.o
+ .debug_aranges
+                0x00000180      0x148 build/stm32g4xx_hal.o
+ .debug_aranges
+                0x000002c8      0x120 build/stm32g4xx_hal_adc.o
+ .debug_aranges
+                0x000003e8      0x100 build/stm32g4xx_hal_adc_ex.o
+ .debug_aranges
+                0x000004e8       0xe0 build/stm32g4xx_hal_cortex.o
+ .debug_aranges
+                0x000005c8       0x58 build/stm32g4xx_hal_gpio.o
+ .debug_aranges
+                0x00000620      0x140 build/stm32g4xx_hal_pwr_ex.o
+ .debug_aranges
+                0x00000760       0x98 build/stm32g4xx_hal_rcc.o
+ .debug_aranges
+                0x000007f8       0xb0 build/stm32g4xx_hal_rcc_ex.o
+ .debug_aranges
+                0x000008a8      0x248 build/stm32g4xx_hal_uart.o
+ .debug_aranges
+                0x00000af0       0xa8 build/stm32g4xx_hal_uart_ex.o
+ .debug_aranges
+                0x00000b98       0x28 build/startup_stm32g474xx.o
+
+.debug_rnglists
+                0x00000000      0xa07
+ .debug_rnglists
+                0x00000000       0x21 build/adc.o
+ .debug_rnglists
+                0x00000021       0x14 build/gpio.o
+ .debug_rnglists
+                0x00000035       0x1f build/main.o
+ .debug_rnglists
+                0x00000054       0x13 build/stm32g4xx_hal_msp.o
+ .debug_rnglists
+                0x00000067       0x49 build/stm32g4xx_it.o
+ .debug_rnglists
+                0x000000b0       0x13 build/sysmem.o
+ .debug_rnglists
+                0x000000c3       0x1a build/system_stm32g4xx.o
+ .debug_rnglists
+                0x000000dd       0x20 build/usart.o
+ .debug_rnglists
+                0x000000fd       0xf1 build/stm32g4xx_hal.o
+ .debug_rnglists
+                0x000001ee      0x17e build/stm32g4xx_hal_adc.o
+ .debug_rnglists
+                0x0000036c      0x149 build/stm32g4xx_hal_adc_ex.o
+ .debug_rnglists
+                0x000004b5       0xa3 build/stm32g4xx_hal_cortex.o
+ .debug_rnglists
+                0x00000558       0x3f build/stm32g4xx_hal_gpio.o
+ .debug_rnglists
+                0x00000597       0xf1 build/stm32g4xx_hal_pwr_ex.o
+ .debug_rnglists
+                0x00000688       0x81 build/stm32g4xx_hal_rcc.o
+ .debug_rnglists
+                0x00000709       0x92 build/stm32g4xx_hal_rcc_ex.o
+ .debug_rnglists
+                0x0000079b      0x1cb build/stm32g4xx_hal_uart.o
+ .debug_rnglists
+                0x00000966       0x88 build/stm32g4xx_hal_uart_ex.o
+ .debug_rnglists
+                0x000009ee       0x19 build/startup_stm32g474xx.o
+
+.debug_line     0x00000000    0x11a98
+ .debug_line    0x00000000      0x466 build/adc.o
+ .debug_line    0x00000466      0x285 build/gpio.o
+ .debug_line    0x000006eb      0x583 build/main.o
+ .debug_line    0x00000c6e      0x22a build/stm32g4xx_hal_msp.o
+ .debug_line    0x00000e98      0x2fd build/stm32g4xx_it.o
+ .debug_line    0x00001195      0x2a0 build/sysmem.o
+ .debug_line    0x00001435      0x2d4 build/system_stm32g4xx.o
+ .debug_line    0x00001709      0x3fa build/usart.o
+ .debug_line    0x00001b03      0x75d build/stm32g4xx_hal.o
+ .debug_line    0x00002260     0x27ee build/stm32g4xx_hal_adc.o
+ .debug_line    0x00004a4e     0x2227 build/stm32g4xx_hal_adc_ex.o
+ .debug_line    0x00006c75      0x897 build/stm32g4xx_hal_cortex.o
+ .debug_line    0x0000750c      0x72a build/stm32g4xx_hal_gpio.o
+ .debug_line    0x00007c36      0xad5 build/stm32g4xx_hal_pwr_ex.o
+ .debug_line    0x0000870b      0xe75 build/stm32g4xx_hal_rcc.o
+ .debug_line    0x00009580     0x12db build/stm32g4xx_hal_rcc_ex.o
+ .debug_line    0x0000a85b     0x64a4 build/stm32g4xx_hal_uart.o
+ .debug_line    0x00010cff      0xd22 build/stm32g4xx_hal_uart_ex.o
+ .debug_line    0x00011a21       0x77 build/startup_stm32g474xx.o
+
+.debug_str      0x00000000     0x4891
+ .debug_str     0x00000000      0xb1b build/adc.o
+                                0xc43 (size before relaxing)
+ .debug_str     0x00000b1b      0x6b3 build/gpio.o
+                                0xa06 (size before relaxing)
+ .debug_str     0x000011ce      0x465 build/main.o
+                                0xc69 (size before relaxing)
+ .debug_str     0x00001633       0x4a build/stm32g4xx_hal_msp.o
+                                0x30e (size before relaxing)
+ .debug_str     0x0000167d       0xe2 build/stm32g4xx_it.o
+                                0x24d (size before relaxing)
+ .debug_str     0x0000175f       0x7a build/sysmem.o
+                                0x201 (size before relaxing)
+ .debug_str     0x000017d9       0xd8 build/system_stm32g4xx.o
+                                0x3a7 (size before relaxing)
+ .debug_str     0x000018b1       0xa5 build/usart.o
+                                0xbb5 (size before relaxing)
+ .debug_str     0x00001956      0x486 build/stm32g4xx_hal.o
+                                0xe1f (size before relaxing)
+ .debug_str     0x00001ddc      0x9c2 build/stm32g4xx_hal_adc.o
+                               0x12c9 (size before relaxing)
+ .debug_str     0x0000279e      0x5e5 build/stm32g4xx_hal_adc_ex.o
+                               0x12d1 (size before relaxing)
+ .debug_str     0x00002d83      0x42e build/stm32g4xx_hal_cortex.o
+                                0xd3d (size before relaxing)
+ .debug_str     0x000031b1       0xf5 build/stm32g4xx_hal_gpio.o
+                                0x520 (size before relaxing)
+ .debug_str     0x000032a6      0x4d8 build/stm32g4xx_hal_pwr_ex.o
+                                0x7c2 (size before relaxing)
+ .debug_str     0x0000377e      0x286 build/stm32g4xx_hal_rcc.o
+                                0x835 (size before relaxing)
+ .debug_str     0x00003a04      0x37b build/stm32g4xx_hal_rcc_ex.o
+                                0xa45 (size before relaxing)
+ .debug_str     0x00003d7f      0x89a build/stm32g4xx_hal_uart.o
+                               0x120a (size before relaxing)
+ .debug_str     0x00004619      0x246 build/stm32g4xx_hal_uart_ex.o
+                                0xb3e (size before relaxing)
+ .debug_str     0x0000485f       0x32 build/startup_stm32g474xx.o
+                                 0x5a (size before relaxing)
+
+.debug_frame    0x00000000     0x1c14
+ .debug_frame   0x00000000       0x68 build/adc.o
+ .debug_frame   0x00000068       0x30 build/gpio.o
+ .debug_frame   0x00000098       0x5c build/main.o
+ .debug_frame   0x000000f4       0x2c build/stm32g4xx_hal_msp.o
+ .debug_frame   0x00000120       0xc0 build/stm32g4xx_it.o
+ .debug_frame   0x000001e0       0x28 build/sysmem.o
+ .debug_frame   0x00000208       0x30 build/system_stm32g4xx.o
+ .debug_frame   0x00000238       0x60 build/usart.o
+ .debug_frame   0x00000298      0x2a4 build/stm32g4xx_hal.o
+ .debug_frame   0x0000053c      0x340 build/stm32g4xx_hal_adc.o
+ .debug_frame   0x0000087c      0x2f0 build/stm32g4xx_hal_adc_ex.o
+ .debug_frame   0x00000b6c      0x1e4 build/stm32g4xx_hal_cortex.o
+ .debug_frame   0x00000d50       0xd0 build/stm32g4xx_hal_gpio.o
+ .debug_frame   0x00000e20      0x268 build/stm32g4xx_hal_pwr_ex.o
+ .debug_frame   0x00001088      0x198 build/stm32g4xx_hal_rcc.o
+ .debug_frame   0x00001220      0x1a0 build/stm32g4xx_hal_rcc_ex.o
+ .debug_frame   0x000013c0      0x67c build/stm32g4xx_hal_uart.o
+ .debug_frame   0x00001a3c      0x1d8 build/stm32g4xx_hal_uart_ex.o
 
 .debug_line_str
                 0x00000000       0x3e
@@ -1906,6 +2259,18 @@ ADC1_2_IRQHandler                                 build/startup_stm32g474xx.o
 ADC3_IRQHandler                                   build/startup_stm32g474xx.o
 ADC4_IRQHandler                                   build/startup_stm32g474xx.o
 ADC5_IRQHandler                                   build/startup_stm32g474xx.o
+ADC_ConversionStop                                build/stm32g4xx_hal_adc.o
+                                                  build/stm32g4xx_hal_adc_ex.o
+ADC_DMAConvCplt                                   build/stm32g4xx_hal_adc.o
+                                                  build/stm32g4xx_hal_adc_ex.o
+ADC_DMAError                                      build/stm32g4xx_hal_adc.o
+                                                  build/stm32g4xx_hal_adc_ex.o
+ADC_DMAHalfConvCplt                               build/stm32g4xx_hal_adc.o
+                                                  build/stm32g4xx_hal_adc_ex.o
+ADC_Disable                                       build/stm32g4xx_hal_adc.o
+                                                  build/stm32g4xx_hal_adc_ex.o
+ADC_Enable                                        build/stm32g4xx_hal_adc.o
+                                                  build/stm32g4xx_hal_adc_ex.o
 AHBPrescTable                                     build/system_stm32g4xx.o
                                                   build/stm32g4xx_hal_rcc.o
 APBPrescTable                                     build/system_stm32g4xx.o
@@ -1944,6 +2309,7 @@ EXTI4_IRQHandler                                  build/startup_stm32g474xx.o
 EXTI9_5_IRQHandler                                build/startup_stm32g474xx.o
 Error_Handler                                     build/main.o
                                                   build/usart.o
+                                                  build/adc.o
 FDCAN1_IT0_IRQHandler                             build/startup_stm32g474xx.o
 FDCAN1_IT1_IRQHandler                             build/startup_stm32g474xx.o
 FDCAN2_IT0_IRQHandler                             build/startup_stm32g474xx.o
@@ -1960,6 +2326,69 @@ FLASH_WaitForLastOperation                        build/stm32g4xx_hal_flash.o
 FMAC_IRQHandler                                   build/startup_stm32g474xx.o
 FMC_IRQHandler                                    build/startup_stm32g474xx.o
 FPU_IRQHandler                                    build/startup_stm32g474xx.o
+HAL_ADCEx_Calibration_GetValue                    build/stm32g4xx_hal_adc_ex.o
+HAL_ADCEx_Calibration_SetValue                    build/stm32g4xx_hal_adc_ex.o
+HAL_ADCEx_Calibration_Start                       build/stm32g4xx_hal_adc_ex.o
+HAL_ADCEx_DisableInjectedQueue                    build/stm32g4xx_hal_adc_ex.o
+HAL_ADCEx_DisableVoltageRegulator                 build/stm32g4xx_hal_adc_ex.o
+HAL_ADCEx_EnableInjectedQueue                     build/stm32g4xx_hal_adc_ex.o
+HAL_ADCEx_EndOfSamplingCallback                   build/stm32g4xx_hal_adc_ex.o
+                                                  build/stm32g4xx_hal_adc.o
+HAL_ADCEx_EnterADCDeepPowerDownMode               build/stm32g4xx_hal_adc_ex.o
+HAL_ADCEx_InjectedConfigChannel                   build/stm32g4xx_hal_adc_ex.o
+HAL_ADCEx_InjectedConvCpltCallback                build/stm32g4xx_hal_adc_ex.o
+                                                  build/stm32g4xx_hal_adc.o
+HAL_ADCEx_InjectedGetValue                        build/stm32g4xx_hal_adc_ex.o
+HAL_ADCEx_InjectedPollForConversion               build/stm32g4xx_hal_adc_ex.o
+HAL_ADCEx_InjectedQueueOverflowCallback           build/stm32g4xx_hal_adc_ex.o
+                                                  build/stm32g4xx_hal_adc.o
+HAL_ADCEx_InjectedStart                           build/stm32g4xx_hal_adc_ex.o
+HAL_ADCEx_InjectedStart_IT                        build/stm32g4xx_hal_adc_ex.o
+HAL_ADCEx_InjectedStop                            build/stm32g4xx_hal_adc_ex.o
+HAL_ADCEx_InjectedStop_IT                         build/stm32g4xx_hal_adc_ex.o
+HAL_ADCEx_LevelOutOfWindow2Callback               build/stm32g4xx_hal_adc_ex.o
+                                                  build/stm32g4xx_hal_adc.o
+HAL_ADCEx_LevelOutOfWindow3Callback               build/stm32g4xx_hal_adc_ex.o
+                                                  build/stm32g4xx_hal_adc.o
+HAL_ADCEx_MultiModeConfigChannel                  build/stm32g4xx_hal_adc_ex.o
+                                                  build/adc.o
+HAL_ADCEx_MultiModeGetValue                       build/stm32g4xx_hal_adc_ex.o
+HAL_ADCEx_MultiModeStart_DMA                      build/stm32g4xx_hal_adc_ex.o
+HAL_ADCEx_MultiModeStop_DMA                       build/stm32g4xx_hal_adc_ex.o
+HAL_ADCEx_RegularMultiModeStop_DMA                build/stm32g4xx_hal_adc_ex.o
+HAL_ADCEx_RegularStop                             build/stm32g4xx_hal_adc_ex.o
+HAL_ADCEx_RegularStop_DMA                         build/stm32g4xx_hal_adc_ex.o
+HAL_ADCEx_RegularStop_IT                          build/stm32g4xx_hal_adc_ex.o
+HAL_ADC_AnalogWDGConfig                           build/stm32g4xx_hal_adc.o
+HAL_ADC_ConfigChannel                             build/stm32g4xx_hal_adc.o
+                                                  build/adc.o
+HAL_ADC_ConvCpltCallback                          build/stm32g4xx_hal_adc.o
+HAL_ADC_ConvHalfCpltCallback                      build/stm32g4xx_hal_adc.o
+HAL_ADC_DeInit                                    build/stm32g4xx_hal_adc.o
+HAL_ADC_ErrorCallback                             build/stm32g4xx_hal_adc.o
+HAL_ADC_GetError                                  build/stm32g4xx_hal_adc.o
+HAL_ADC_GetState                                  build/stm32g4xx_hal_adc.o
+HAL_ADC_GetValue                                  build/stm32g4xx_hal_adc.o
+                                                  build/main.o
+HAL_ADC_IRQHandler                                build/stm32g4xx_hal_adc.o
+HAL_ADC_Init                                      build/stm32g4xx_hal_adc.o
+                                                  build/adc.o
+HAL_ADC_LevelOutOfWindowCallback                  build/stm32g4xx_hal_adc.o
+HAL_ADC_MspDeInit                                 build/adc.o
+HAL_ADC_MspInit                                   build/adc.o
+HAL_ADC_PollForConversion                         build/stm32g4xx_hal_adc.o
+                                                  build/main.o
+HAL_ADC_PollForEvent                              build/stm32g4xx_hal_adc.o
+HAL_ADC_Start                                     build/stm32g4xx_hal_adc.o
+                                                  build/main.o
+HAL_ADC_StartSampling                             build/stm32g4xx_hal_adc.o
+HAL_ADC_Start_DMA                                 build/stm32g4xx_hal_adc.o
+HAL_ADC_Start_IT                                  build/stm32g4xx_hal_adc.o
+HAL_ADC_Stop                                      build/stm32g4xx_hal_adc.o
+                                                  build/main.o
+HAL_ADC_StopSampling                              build/stm32g4xx_hal_adc.o
+HAL_ADC_Stop_DMA                                  build/stm32g4xx_hal_adc.o
+HAL_ADC_Stop_IT                                   build/stm32g4xx_hal_adc.o
 HAL_DBGMCU_DisableDBGSleepMode                    build/stm32g4xx_hal.o
 HAL_DBGMCU_DisableDBGStandbyMode                  build/stm32g4xx_hal.o
 HAL_DBGMCU_DisableDBGStopMode                     build/stm32g4xx_hal.o
@@ -1973,6 +2402,8 @@ HAL_DMAEx_EnableMuxRequestGenerator               build/stm32g4xx_hal_dma_ex.o
 HAL_DMAEx_MUX_IRQHandler                          build/stm32g4xx_hal_dma_ex.o
 HAL_DMA_Abort                                     build/stm32g4xx_hal_dma.o
                                                   build/stm32g4xx_hal_uart.o
+                                                  build/stm32g4xx_hal_adc_ex.o
+                                                  build/stm32g4xx_hal_adc.o
 HAL_DMA_Abort_IT                                  build/stm32g4xx_hal_dma.o
                                                   build/stm32g4xx_hal_uart.o
 HAL_DMA_DeInit                                    build/stm32g4xx_hal_dma.o
@@ -1986,6 +2417,8 @@ HAL_DMA_RegisterCallback                          build/stm32g4xx_hal_dma.o
 HAL_DMA_Start                                     build/stm32g4xx_hal_dma.o
 HAL_DMA_Start_IT                                  build/stm32g4xx_hal_dma.o
                                                   build/stm32g4xx_hal_uart.o
+                                                  build/stm32g4xx_hal_adc_ex.o
+                                                  build/stm32g4xx_hal_adc.o
 HAL_DMA_UnRegisterCallback                        build/stm32g4xx_hal_dma.o
 HAL_DeInit                                        build/stm32g4xx_hal.o
 HAL_Delay                                         build/stm32g4xx_hal.o
@@ -2021,6 +2454,7 @@ HAL_FLASH_Program_IT                              build/stm32g4xx_hal_flash.o
 HAL_FLASH_Unlock                                  build/stm32g4xx_hal_flash.o
 HAL_GPIO_DeInit                                   build/stm32g4xx_hal_gpio.o
                                                   build/usart.o
+                                                  build/adc.o
 HAL_GPIO_EXTI_Callback                            build/stm32g4xx_hal_gpio.o
 HAL_GPIO_EXTI_IRQHandler                          build/stm32g4xx_hal_gpio.o
                                                   build/stm32g4xx_it.o
@@ -2029,6 +2463,7 @@ HAL_GPIO_Init                                     build/stm32g4xx_hal_gpio.o
                                                   build/stm32g4xx_hal_rcc.o
                                                   build/usart.o
                                                   build/gpio.o
+                                                  build/adc.o
 HAL_GPIO_LockPin                                  build/stm32g4xx_hal_gpio.o
 HAL_GPIO_ReadPin                                  build/stm32g4xx_hal_gpio.o
 HAL_GPIO_TogglePin                                build/stm32g4xx_hal_gpio.o
@@ -2044,6 +2479,8 @@ HAL_GetTick                                       build/stm32g4xx_hal.o
                                                   build/stm32g4xx_hal_rcc.o
                                                   build/stm32g4xx_hal_flash.o
                                                   build/stm32g4xx_hal_dma.o
+                                                  build/stm32g4xx_hal_adc_ex.o
+                                                  build/stm32g4xx_hal_adc.o
 HAL_GetTickFreq                                   build/stm32g4xx_hal.o
 HAL_GetTickPrio                                   build/stm32g4xx_hal.o
 HAL_GetUIDw0                                      build/stm32g4xx_hal.o
@@ -2167,6 +2604,7 @@ HAL_RCCEx_LSECSS_Callback                         build/stm32g4xx_hal_rcc_ex.o
 HAL_RCCEx_LSECSS_IRQHandler                       build/stm32g4xx_hal_rcc_ex.o
 HAL_RCCEx_PeriphCLKConfig                         build/stm32g4xx_hal_rcc_ex.o
                                                   build/usart.o
+                                                  build/adc.o
 HAL_RCC_CSSCallback                               build/stm32g4xx_hal_rcc.o
 HAL_RCC_ClockConfig                               build/stm32g4xx_hal_rcc.o
                                                   build/main.o
@@ -2264,6 +2702,7 @@ HAL_UART_ReceiverTimeout_Config                   build/stm32g4xx_hal_uart.o
 HAL_UART_RxCpltCallback                           build/stm32g4xx_hal_uart.o
 HAL_UART_RxHalfCpltCallback                       build/stm32g4xx_hal_uart.o
 HAL_UART_Transmit                                 build/stm32g4xx_hal_uart.o
+                                                  build/main.o
 HAL_UART_Transmit_DMA                             build/stm32g4xx_hal_uart.o
 HAL_UART_Transmit_IT                              build/stm32g4xx_hal_uart.o
 HAL_UART_TxCpltCallback                           build/stm32g4xx_hal_uart.o
@@ -2287,6 +2726,8 @@ I2C4_ER_IRQHandler                                build/startup_stm32g474xx.o
 I2C4_EV_IRQHandler                                build/startup_stm32g474xx.o
 LPTIM1_IRQHandler                                 build/startup_stm32g474xx.o
 LPUART1_IRQHandler                                build/startup_stm32g474xx.o
+MX_ADC1_Init                                      build/adc.o
+                                                  build/main.o
 MX_GPIO_Init                                      build/gpio.o
                                                   build/main.o
 MX_LPUART1_UART_Init                              build/usart.o
@@ -2314,6 +2755,8 @@ SystemCoreClock                                   build/system_stm32g4xx.o
                                                   build/stm32g4xx_hal_rcc.o
                                                   build/stm32g4xx_hal_pwr_ex.o
                                                   build/stm32g4xx_hal_flash_ramfunc.o
+                                                  build/stm32g4xx_hal_adc_ex.o
+                                                  build/stm32g4xx_hal_adc.o
                                                   build/stm32g4xx_hal.o
 SystemCoreClockUpdate                             build/system_stm32g4xx.o
 SystemInit                                        build/system_stm32g4xx.o
@@ -2460,6 +2903,8 @@ __sread                                           /home/kalsifer/.config/Code/Us
                                                   /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
 __sseek                                           /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
                                                   /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+__ssprint_r                                       /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-nano-svfprintf.o)
+__ssputs_r                                        /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-nano-svfprintf.o)
 __stack                                           /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
 __stdio_exit_handler                              /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
                                                   /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o)
@@ -2485,7 +2930,9 @@ _fini                                             /home/kalsifer/.config/Code/Us
                                                   /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fini.o)
 _fork                                             build/syscalls.o
 _free_r                                           /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+                                                  /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reallocr.o)
                                                   /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+                                                  /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-nano-svfprintf.o)
                                                   /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
 _fstat                                            build/syscalls.o
 _fwalk_sglue                                      /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
@@ -2499,6 +2946,7 @@ _impure_ptr                                       /home/kalsifer/.config/Code/Us
                                                   /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
                                                   /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-errno.o)
                                                   /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+                                                  /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sprintf.o)
 _init                                             /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crti.o
                                                   /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
 _isatty                                           build/syscalls.o
@@ -2510,12 +2958,22 @@ _lseek_r                                          /home/kalsifer/.config/Code/Us
                                                   /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
 _mainCRTStartup                                   /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
 _malloc_r                                         /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+                                                  /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reallocr.o)
+                                                  /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-nano-svfprintf.o)
                                                   /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+_malloc_usable_size_r                             /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-msizer.o)
+                                                  /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reallocr.o)
 _open                                             build/syscalls.o
+_printf_common                                    /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-nano-vfprintf_i.o)
+_printf_float                                     /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-nano-svfprintf.o)
+_printf_i                                         /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-nano-vfprintf_i.o)
+                                                  /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-nano-svfprintf.o)
 _read                                             build/syscalls.o
                                                   /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o)
 _read_r                                           /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o)
                                                   /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+_realloc_r                                        /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reallocr.o)
+                                                  /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-nano-svfprintf.o)
 _reclaim_reent                                    /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
 _sbrk                                             build/sysmem.o
                                                   /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
@@ -2524,9 +2982,14 @@ _sbrk_r                                           /home/kalsifer/.config/Code/Us
 _sbss                                             build/startup_stm32g474xx.o
 _sdata                                            build/startup_stm32g474xx.o
 _sidata                                           build/startup_stm32g474xx.o
+_siprintf_r                                       /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sprintf.o)
+_sprintf_r                                        /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sprintf.o)
 _stack_init                                       /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
 _start                                            /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
 _stat                                             build/syscalls.o
+_svfiprintf_r                                     /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-nano-svfprintf.o)
+_svfprintf_r                                      /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-nano-svfprintf.o)
+                                                  /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sprintf.o)
 _times                                            build/syscalls.o
 _unlink                                           build/syscalls.o
 _wait                                             build/syscalls.o
@@ -2547,22 +3010,39 @@ exit                                              /home/kalsifer/.config/Code/Us
                                                   /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
 fflush                                            /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
 g_pfnVectors                                      build/startup_stm32g474xx.o
+hadc1                                             build/adc.o
+                                                  build/main.o
 hardware_init_hook                                /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
 hlpuart1                                          build/usart.o
+                                                  build/main.o
 initialise_monitor_handles                        build/syscalls.o
 main                                              build/main.o
                                                   build/startup_stm32g474xx.o
                                                   /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
 malloc                                            /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__atexit.o)
+memchr                                            /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memchr.o)
+                                                  /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-nano-vfprintf_i.o)
+                                                  /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-nano-svfprintf.o)
+memcpy                                            /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+                                                  /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reallocr.o)
+                                                  /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-nano-svfprintf.o)
+memmove                                           /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memmove.o)
+                                                  /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-nano-svfprintf.o)
 memset                                            /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
                                                   /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
                                                   build/usart.o
                                                   build/main.o
+                                                  build/adc.o
                                                   /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
 pFlash                                            build/stm32g4xx_hal_flash.o
                                                   build/stm32g4xx_hal_flash_ramfunc.o
                                                   build/stm32g4xx_hal_flash_ex.o
+siprintf                                          /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sprintf.o)
 software_init_hook                                /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+sprintf                                           /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sprintf.o)
+                                                  build/main.o
+strlen                                            /home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/12.3.1-1.2.1/.content/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-strlen.o)
+                                                  build/main.o
 uwTick                                            build/stm32g4xx_hal.o
 uwTickFreq                                        build/stm32g4xx_hal.o
 uwTickPrio                                        build/stm32g4xx_hal.o

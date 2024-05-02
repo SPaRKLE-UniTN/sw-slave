@@ -18,12 +18,16 @@
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
+#include "adc.h"
 #include "usart.h"
 #include "gpio.h"
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
+#include <stdio.h>
+#include <string.h>
 
+#include "config.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -44,7 +48,7 @@
 /* Private variables ---------------------------------------------------------*/
 
 /* USER CODE BEGIN PV */
-
+uint32_t raw_values[];
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
@@ -88,14 +92,40 @@ int main(void)
   /* Initialize all configured peripherals */
   MX_GPIO_Init();
   MX_LPUART1_UART_Init();
+  MX_ADC1_Init();
   /* USER CODE BEGIN 2 */
 
+    //read for n seconds
+    start_time = get_clock();
+
+    while(elapsed_time < 3) {
+        #if POLLING_MODE
+            HAL_ADC_Start(&hadc1);
+            HAL_ADC_PollForConversion(&hadc1, 100);
+            uint32_t v = HAL_ADC_GetValue(&hadc1);
+            HAL_ADC_Stop(&hadc1);
+
+            write_value(v);
+        #elif DMA_MODE
+            //code
+        #endif
+    }
+
+    //send all date in batch
+    char buffer[64];
+    sprintf(buffer, "value: %lu\n", v);
+
+    if (v != 0)
+    {
+        HAL_UART_Transmit(&hlpuart1, (uint8_t*)buffer, strlen(buffer), 100);
+    }
   /* USER CODE END 2 */
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
   while (1)
   {
+    DMA_routine();
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */

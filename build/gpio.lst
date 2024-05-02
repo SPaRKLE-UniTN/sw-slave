@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccsIlkhG.s 			page 1
+ARM GAS  /tmp/ccCP8K9B.s 			page 1
 
 
    1              		.cpu cortex-m4
@@ -27,7 +27,7 @@ ARM GAS  /tmp/ccsIlkhG.s 			page 1
   24              		.thumb
   25              		.thumb_func
   27              	MX_GPIO_Init:
-  28              	.LFB132:
+  28              	.LFB329:
    1:Core/Src/gpio.c **** /* USER CODE BEGIN Header */
    2:Core/Src/gpio.c **** /**
    3:Core/Src/gpio.c ****   ******************************************************************************
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccsIlkhG.s 			page 1
   28:Core/Src/gpio.c **** /*----------------------------------------------------------------------------*/
   29:Core/Src/gpio.c **** /* Configure GPIO                                                             */
   30:Core/Src/gpio.c **** /*----------------------------------------------------------------------------*/
-ARM GAS  /tmp/ccsIlkhG.s 			page 2
+ARM GAS  /tmp/ccCP8K9B.s 			page 2
 
 
   31:Core/Src/gpio.c **** /* USER CODE BEGIN 1 */
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccsIlkhG.s 			page 1
   64              	.LBB3:
   65              		.loc 1 49 3 view .LVU10
   66              		.loc 1 49 3 view .LVU11
-ARM GAS  /tmp/ccsIlkhG.s 			page 3
+ARM GAS  /tmp/ccCP8K9B.s 			page 3
 
 
   67 0024 DA6C     		ldr	r2, [r3, #76]
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccsIlkhG.s 			page 1
   57:Core/Src/gpio.c ****   GPIO_InitStruct.Pin = B1_Pin;
  114              		.loc 1 57 3 view .LVU28
  115              		.loc 1 57 23 is_stmt 0 view .LVU29
-ARM GAS  /tmp/ccsIlkhG.s 			page 4
+ARM GAS  /tmp/ccCP8K9B.s 			page 4
 
 
  116 0066 4FF40053 		mov	r3, #8192
@@ -238,7 +238,7 @@ ARM GAS  /tmp/ccsIlkhG.s 			page 1
  156 009c 2820     		movs	r0, #40
  157 009e FFF7FEFF 		bl	HAL_NVIC_EnableIRQ
  158              	.LVL4:
-ARM GAS  /tmp/ccsIlkhG.s 			page 5
+ARM GAS  /tmp/ccCP8K9B.s 			page 5
 
 
   72:Core/Src/gpio.c **** 
@@ -254,7 +254,7 @@ ARM GAS  /tmp/ccsIlkhG.s 			page 1
  167 00a8 00100240 		.word	1073876992
  168 00ac 00080048 		.word	1207961600
  169              		.cfi_endproc
- 170              	.LFE132:
+ 170              	.LFE329:
  172              		.text
  173              	.Letext0:
  174              		.file 2 "Drivers/CMSIS/Device/ST/STM32G4xx/Include/stm32g474xx.h"
@@ -262,14 +262,14 @@ ARM GAS  /tmp/ccsIlkhG.s 			page 1
  176              		.file 4 "/home/kalsifer/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-
  177              		.file 5 "Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_gpio.h"
  178              		.file 6 "Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_cortex.h"
-ARM GAS  /tmp/ccsIlkhG.s 			page 6
+ARM GAS  /tmp/ccCP8K9B.s 			page 6
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 gpio.c
-     /tmp/ccsIlkhG.s:21     .text.MX_GPIO_Init:00000000 $t
-     /tmp/ccsIlkhG.s:27     .text.MX_GPIO_Init:00000000 MX_GPIO_Init
-     /tmp/ccsIlkhG.s:167    .text.MX_GPIO_Init:000000a8 $d
+     /tmp/ccCP8K9B.s:21     .text.MX_GPIO_Init:00000000 $t
+     /tmp/ccCP8K9B.s:27     .text.MX_GPIO_Init:00000000 MX_GPIO_Init
+     /tmp/ccCP8K9B.s:167    .text.MX_GPIO_Init:000000a8 $d
 
 UNDEFINED SYMBOLS
 HAL_GPIO_WritePin
