@@ -20,3 +20,13 @@ void plotter_transmit_data(data_point_t* data, size_t size) {
         HAL_UART_Transmit(&hlpuart1, (uint8_t*)buffer, strlen(buffer), 100);
     }
 }
+
+void plotter_send_signal(const char* name, data_point_t* data, size_t size) {
+    HAL_UART_Transmit(&hlpuart1, (uint8_t *)name, strlen(name), 100);
+    HAL_UART_Transmit(&hlpuart1, (uint8_t *)"\n", 1, 100);
+
+    plotter_transmit_data(data, size);
+    
+    const char* buffer = "END_OF_SIGNAL\n";
+    HAL_UART_Transmit(&hlpuart1, (uint8_t *)buffer, strlen(buffer), 100);
+}

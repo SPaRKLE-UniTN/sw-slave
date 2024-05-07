@@ -96,20 +96,13 @@ int main(void) {
     MX_GPIO_Init();
     MX_LPUART1_UART_Init();
     MX_ADC1_Init();
+    MX_ADC2_Init();
     /* USER CODE BEGIN 2 */
-#if !SEND_CONTINUOUS
     size_t points_index = 0;
-    data_point_t points[POINTS_N];
-    for (size_t i = 0; i < POINTS_N; i++) {
-        points[i].time = 0;
-        points[i].value = 0;
-    }
-#endif
+    data_point_t adc1_points[POINTS_N];
+    data_point_t adc2_points[POINTS_N];
 
 #if POLLING_MODE
-    char *buffer = "polling\n";
-    HAL_UART_Transmit(&hlpuart1, (uint8_t *)buffer, strlen(buffer), 100);
-
     uint32_t start_time = plotter_get_time_us();
     uint32_t current_time = start_time;
 
@@ -118,28 +111,30 @@ int main(void) {
 
         HAL_ADC_Start(&hadc1);
         HAL_ADC_PollForConversion(&hadc1, 100);
-        uint32_t v = HAL_ADC_GetValue(&hadc1);
+        uint32_t adc1_raw_value = HAL_ADC_GetValue(&hadc1);
         HAL_ADC_Stop(&hadc1);
 
-        data_point_t point = {.time = current_time, .value = v};
-#if SEND_CONTINUOUS
-        plotter_transmit_data(&point, 1);
-#else
+        HAL_ADC_Start(&hadc2);
+        HAL_ADC_PollForConversion(&hadc2, 100);
+        uint32_t adc2_raw_value = HAL_ADC_GetValue(&hadc2);
+        HAL_ADC_Stop(&hadc2);
+
+        data_point_t adc1_point = {.time = current_time,
+                                   .value = adc1_raw_value};
+        data_point_t adc2_point = {.time = current_time,
+                                   .value = adc2_raw_value};
         if (points_index == POINTS_N) {
             break;
         }
-        points[points_index] = point;
+        adc1_points[points_index] = adc1_point;
+        adc2_points[points_index] = adc2_point;
         points_index++;
-#endif
     }
 #endif
 
-#if !SEND_CONTINUOUS
-    plotter_transmit_data(points, points_index);
-#endif
+    plotter_send_signal("ADC1", adc1_points, points_index);
+    plotter_send_signal("ADC2", adc2_points, points_index);
 
-    buffer = "END_OF_SIGNAL\n";
-    HAL_UART_Transmit(&hlpuart1, (uint8_t *)buffer, strlen(buffer), 100);
     /* USER CODE END 2 */
 
     /* Infinite loop */
