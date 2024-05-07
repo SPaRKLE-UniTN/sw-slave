@@ -18,6 +18,7 @@
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
+#include "adc.h"
 #include "gpio.h"
 #include "usart.h"
 
@@ -27,6 +28,7 @@
 #include <string.h>
 
 #include "config.h"
+#include "plotter.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -47,7 +49,6 @@
 /* Private variables ---------------------------------------------------------*/
 
 /* USER CODE BEGIN PV */
-uint32_t raw_values[];
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
@@ -86,61 +87,68 @@ int main(void) {
     SystemClock_Config();
 
     /* USER CODE BEGIN SysInit */
-
+    CoreDebug->DEMCR |= CoreDebug_DEMCR_TRCENA_Msk;
+    DWT->CYCCNT = 0;
+    DWT->CTRL |= DWT_CTRL_CYCCNTENA_Msk;
     /* USER CODE END SysInit */
 
-  /* Initialize all configured peripherals */
-  MX_GPIO_Init();
-  MX_LPUART1_UART_Init();
-  MX_ADC1_Init();
-  /* USER CODE BEGIN 2 */
-
-    //read for n seconds
-    start_time = get_clock();
-
-    while(elapsed_time < 3) {
-        #if POLLING_MODE
-            HAL_ADC_Start(&hadc1);
-            HAL_ADC_PollForConversion(&hadc1, 100);
-            uint32_t v = HAL_ADC_GetValue(&hadc1);
-            HAL_ADC_Stop(&hadc1);
-
-            write_value(v);
-        #elif DMA_MODE
-            //code
-        #endif
-    }
-
-    //send all date in batch
-    char buffer[64];
-    sprintf(buffer, "value: %lu\n", v);
-
-    if (v != 0)
-    {
-        HAL_UART_Transmit(&hlpuart1, (uint8_t*)buffer, strlen(buffer), 100);
-    }
-  /* USER CODE END 2 */
-
-  /* Infinite loop */
-  /* USER CODE BEGIN WHILE */
-  while (1)
-  {
-    DMA_routine();
-    /* USER CODE END WHILE */
     /* Initialize all configured peripherals */
     MX_GPIO_Init();
     MX_LPUART1_UART_Init();
+    MX_ADC1_Init();
     /* USER CODE BEGIN 2 */
+#if !SEND_CONTINUOUS
+    size_t points_index = 0;
+    data_point_t points[POINTS_N];
+    for (size_t i = 0; i < POINTS_N; i++) {
+        points[i].time = 0;
+        points[i].value = 0;
+    }
+#endif
 
+#if POLLING_MODE
+    char *buffer = "polling\n";
+    HAL_UART_Transmit(&hlpuart1, (uint8_t *)buffer, strlen(buffer), 100);
+
+    uint32_t start_time = plotter_get_time_us();
+    uint32_t current_time = start_time;
+
+    while (current_time < start_time + RUN_TIME_MS * 1000) {
+        current_time = plotter_get_time_us();
+
+        HAL_ADC_Start(&hadc1);
+        HAL_ADC_PollForConversion(&hadc1, 100);
+        uint32_t v = HAL_ADC_GetValue(&hadc1);
+        HAL_ADC_Stop(&hadc1);
+
+        data_point_t point = {.time = current_time, .value = v};
+#if SEND_CONTINUOUS
+        plotter_transmit_data(&point, 1);
+#else
+        if (points_index == POINTS_N) {
+            break;
+        }
+        points[points_index] = point;
+        points_index++;
+#endif
+    }
+#endif
+
+#if !SEND_CONTINUOUS
+    plotter_transmit_data(points, points_index);
+#endif
+
+    buffer = "END_OF_SIGNAL\n";
+    HAL_UART_Transmit(&hlpuart1, (uint8_t *)buffer, strlen(buffer), 100);
     /* USER CODE END 2 */
 
     /* Infinite loop */
     /* USER CODE BEGIN WHILE */
     while (1) {
-        /* USER CODE END WHILE */
-
-        /* USER CODE BEGIN 3 */
     }
+    /* USER CODE END WHILE */
+
+    /* USER CODE BEGIN 3 */
     /* USER CODE END 3 */
 }
 
@@ -197,7 +205,8 @@ void SystemClock_Config(void) {
  */
 void Error_Handler(void) {
     /* USER CODE BEGIN Error_Handler_Debug */
-    /* User can add his own implementation to report the HAL error return state
+    /* User can add his own implementation to report the HAL error return
+     * state
      */
     __disable_irq();
     while (1) {

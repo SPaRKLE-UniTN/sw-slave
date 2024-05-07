@@ -36,6 +36,7 @@ BUILD_DIR = build
 ######################################
 # C sources
 C_SOURCES =  \
+Core/Lib/plotter.c \
 Core/Src/adc.c \
 Core/Src/gpio.c \
 Core/Src/main.c \
@@ -137,6 +138,7 @@ AS_INCLUDES = \
 # C includes
 C_INCLUDES =  \
 -ICore/Inc \
+-ICore/Lib \
 -IDrivers/CMSIS/Device/ST/STM32G4xx/Include \
 -IDrivers/CMSIS/Include \
 -IDrivers/STM32G4xx_HAL_Driver/Inc \
@@ -260,7 +262,7 @@ clean:
 #######################################
 # format
 #######################################
-format: 
+format: $(BUILD_DIR)/$(TARGET).elf
 	clang-format -style=file -i Core/Inc/*.h && clang-format -style=file -i Core/Src/*.c
       
 	

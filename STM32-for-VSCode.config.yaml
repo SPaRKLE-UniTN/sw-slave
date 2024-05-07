@@ -103,6 +103,7 @@ customMakefileRules:
 #   dependsOn: $(BUILD_DIR)/$(TARGET).elf # can be left out
 - command: format
   rule: clang-format -style=file -i Core/Inc/*.h && clang-format -style=file -i Core/Src/*.c
+  dependsOn: $(BUILD_DIR)/$(TARGET).elf
 
 # Additional flags which will be used when invoking the make command
 makeFlags:
