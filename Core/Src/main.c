@@ -196,14 +196,14 @@ int main(void) {
             adc1_point.time = current_time;
             adc1_points[adc1_points_index] = adc1_point;
             adc1_points_index++;
-            HAL_ADC_Start_DMA(&hadc1, (uint32_t *)&adc1_point.value, 1);
+            // HAL_ADC_Start_DMA(&hadc1, (uint32_t *)&adc1_point.value, 1);
             adc1_complete = false;
         }
         if (adc2_complete) {
             adc2_point.time = current_time;
             adc2_points[adc2_points_index] = adc2_point;
             adc2_points_index++;
-            HAL_ADC_Start_DMA(&hadc2, (uint32_t *)&adc2_point.value, 1);
+            // HAL_ADC_Start_DMA(&hadc2, (uint32_t *)&adc2_point.value, 1);
             adc2_complete = false;
         }
     }
@@ -211,6 +211,39 @@ int main(void) {
     plotter_send_signal("ADC1", adc1_points, adc1_points_index);
     plotter_send_signal("ADC2", adc2_points, adc2_points_index);
 #endif
+#if DMA_MODE_DONE_THE_PROPER_WAY
+    uint16_t adc1_raw[POINTS_N];
+    uint16_t adc2_raw[POINTS_N];
+
+    HAL_ADC_Start_DMA(&hadc1, (uint32_t *)adc1_raw, POINTS_N);
+    HAL_ADC_Start_DMA(&hadc2, (uint32_t *)adc2_raw, POINTS_N);
+
+    uint32_t start_time = plotter_get_time_us();
+
+    while (!adc1_complete || !adc2_complete)
+        ;
+
+    uint32_t end_time = plotter_get_time_us();
+
+    HAL_ADC_Stop_DMA(&hadc1);
+    HAL_ADC_Stop_DMA(&hadc2);
+
+    for (size_t i = 0; i < POINTS_N; i++) {
+        adc1_points[i].time = ~0;
+        adc2_points[i].time = ~0;
+        adc1_points[i].value = adc1_raw[i];
+        adc2_points[i].value = adc2_raw[i];
+    }
+
+    adc1_points[0].time = start_time;
+    adc1_points[POINTS_N - 1].time = end_time;
+    adc2_points[0].time = start_time;
+    adc2_points[POINTS_N - 1].time = end_time;
+
+    plotter_send_signal("ADC1", adc1_points, POINTS_N);
+    plotter_send_signal("ADC2", adc2_points, POINTS_N);
+#endif
+
     /* USER CODE END 2 */
 
     /* Infinite loop */
