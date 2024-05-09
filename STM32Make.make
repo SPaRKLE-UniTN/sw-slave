@@ -38,6 +38,7 @@ BUILD_DIR = build
 C_SOURCES =  \
 Core/Lib/plotter.c \
 Core/Src/adc.c \
+Core/Src/dma.c \
 Core/Src/gpio.c \
 Core/Src/main.c \
 Core/Src/stm32g4xx_hal_msp.c \
