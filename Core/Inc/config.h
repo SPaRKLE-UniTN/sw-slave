@@ -4,6 +4,7 @@
 #define POINTS_N (1 << 12)
 #define RUN_TIME_MS 2000
 #define POLLING_MODE 0
-#define DMA_MODE 1
+#define DMA_MODE_ADC_MULTI_CHANNEL 0
+#define DMA_MODE_DMA_MULTI_CHANNEL 1
 
 #endif // CONFIG_H
